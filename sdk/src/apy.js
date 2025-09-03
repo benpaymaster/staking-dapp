@@ -1,11 +1,10 @@
 // sdk/src/apy.js
 
 /**
- * Calculate APY for a list of validators
+ * Calculate APY and return full validator info
  */
-export async function calculateAPY(api, validators) {
-  const activeEra = (await api.query.staking.activeEra()).unwrap().index.toNumber();
-  const prevEra = activeEra - 1;
+export async function calculateAPY(api, validators, era) {
+  const prevEra = era ?? ((await api.query.staking.activeEra()).unwrap().index.toNumber() - 1);
 
   // Get era reward pool
   const eraReward = (await api.query.staking.erasValidatorReward(prevEra)).toBigInt();
@@ -16,7 +15,6 @@ export async function calculateAPY(api, validators) {
   const results = [];
 
   for (const validatorId of validators) {
-    // Points for this validator
     const points = eraRewardPoints.individual.get(validatorId);
     if (!points) continue;
 
@@ -29,11 +27,15 @@ export async function calculateAPY(api, validators) {
     // Subtract commission
     const prefs = await api.query.staking.erasValidatorPrefs(prevEra, validatorId);
     const commission = prefs.commission.toNumber() / 10_000_000; // perbill → %
-    const netReward = validatorReward - (validatorReward * BigInt(Math.floor(commission * 1e7))) / 10_000_000n;
+
+    const netReward =
+      validatorReward - (validatorReward * BigInt(Math.floor(commission * 1e7))) / 10_000_000n;
 
     // Divide by total stake
     const exposure = await api.query.staking.erasStakersOverview(prevEra, validatorId);
     const totalStake = exposure.total.toBigInt();
+    const ownStake = exposure.own.toBigInt();
+    const nominatorCount = exposure.nominatorCount.toNumber();
 
     if (totalStake === 0n) continue;
 
@@ -43,10 +45,13 @@ export async function calculateAPY(api, validators) {
     results.push({
       validatorId: validatorId.toString(),
       apy: apy * 100, // %
+      totalStake: Number(totalStake),
+      ownStake: Number(ownStake),
+      rewardPoints: Number(validatorPoints),
+      commission: commission,
+      nominatorCount: nominatorCount,
     });
   }
 
-  // Sort by APY descending
-  results.sort((a, b) => b.apy - a.apy);
   return results;
 }
