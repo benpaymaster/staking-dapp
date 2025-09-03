@@ -1,0 +1,25 @@
+{
+  "name": "staking-dapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node validators.js",
+    "dev": "nodemon validators.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@polkadot-api/descriptors": "^0.0.1",
+    "@polkadot/api": "^16.4.6",
+    "polkadot-api": "^1.16.4"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "nodemon": "^3.1.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
