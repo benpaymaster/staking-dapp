@@ -37,11 +37,15 @@ cd staking-dapp
 # Install dependencies
 npm install
 
+---
+
 ▶️ Running the SDK (Backend)
 
 npm run sdk:test
 
-Example output:
+---
+
+## Example Output 
 
 📌 Active Era: 1200
 🔍 Found 600 validators
@@ -53,6 +57,8 @@ Example output:
    Own Stake: 1000000000000
    Total Stake: 50000000000000
    Reward After Commission: 12000000000
+
+   ---
 
 💻 Running the Frontend
 
@@ -69,6 +75,8 @@ Visit 👉 http://localhost:3000
 
     Node.js (tested on v22+)
 
+    ---
+
 🚀 Next Steps
 
     Improve UI design with charts and filters
@@ -77,8 +85,10 @@ Visit 👉 http://localhost:3000
 
     Extend support to Kusama / parachains
 
+    ---
+
 📝 Author
 
-    Your Name (GitHub: [your-handle])
+    Your Name : Adegbenga Ogungbeje
 
     Assignment Deadline: 4th Sept, 13:00
