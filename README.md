@@ -39,7 +39,7 @@ npm install
 
 ---
 
-▶️ Running the SDK (Backend)
+## ▶️ Running the SDK (Backend)
 
 npm run sdk:test
 
@@ -60,7 +60,7 @@ npm run sdk:test
 
    ---
 
-💻 Running the Frontend
+## 💻 Running the Frontend
 
 npm run dev
 
@@ -77,7 +77,7 @@ Visit 👉 http://localhost:3000
 
     ---
 
-🚀 Next Steps
+## 🚀 Next Steps
 
     Improve UI design with charts and filters
 
@@ -87,7 +87,7 @@ Visit 👉 http://localhost:3000
 
     ---
 
-📝 Author
+## 📝 Author
 
     Your Name : Adegbenga Ogungbeje
 
