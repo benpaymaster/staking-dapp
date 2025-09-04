@@ -1,12 +1,7 @@
 // frontend/src/App.tsx
 import React, { useEffect, useState } from 'react';
 import './App.css';
-import {
-  connectApi,
-  getValidators,
-  getActiveEra,
-  getValidatorEraData,
-} from '../../sdk/src/validators';
+
 
 interface ValidatorData {
   validatorId: string;
@@ -22,24 +17,35 @@ const App: React.FC = () => {
   const [validators, setValidators] = useState<ValidatorData[]>([]);
   const [loading, setLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
+  const [progress, setProgress] = useState<string>("Starting...");
 
   useEffect(() => {
     const fetchValidators = async () => {
       try {
         setLoading(true);
-        const api = await connectApi();
-        console.log('✅ Connected to Polkadot');
+        setProgress("Connecting to Polkadot…");
+
+        // Use more reliable public endpoint
+        const api = await connectAp("wss://polkadot-rpc.publicnode.com");  
+        console.log("✅ Connected to Polkadot");
 
         const validatorIds = await getValidators(api);
+        console.log(`📡 Got ${validatorIds.length} validators`);
+
         const eraIndex = await getActiveEra(api);
         console.log(`📌 Active era: ${eraIndex}`);
-
-        // Use previous era if available, otherwise fall back to current
         const targetEra = eraIndex > 0 ? eraIndex - 1 : eraIndex;
 
         const validatorData: ValidatorData[] = [];
-        for (const id of validatorIds) {
+
+        // Limit to first 5 for debugging
+        const sampleIds = validatorIds.slice(0, 5);
+
+        for (let i = 0; i < sampleIds.length; i++) {
+          const id = sampleIds[i];
+          setProgress(`Fetching validator ${i + 1}/${sampleIds.length}`);
           try {
+            console.log(`🔎 Fetching data for validator ${id}`);
             const data = await getValidatorEraData(api, targetEra, id);
             validatorData.push(data);
           } catch (innerErr: any) {
@@ -47,26 +53,26 @@ const App: React.FC = () => {
           }
         }
 
-        // Sort by APY descending
         validatorData.sort((a, b) => b.apy - a.apy);
-        setValidators(validatorData.slice(0, 16)); // top 16
+        setValidators(validatorData);
       } catch (err: any) {
         console.error(err);
-        setError(err.message || 'Unknown error occurred');
+        setError(err.message || "Unknown error occurred");
       } finally {
         setLoading(false);
+        setProgress("");
       }
     };
 
     fetchValidators();
   }, []);
 
-  if (loading) return <div className="loading">Loading validators...</div>;
+  if (loading) return <div className="loading">Loading validators… {progress}</div>;
   if (error) return <div className="error">Error: {error}</div>;
 
   return (
     <div className="App">
-      <h1>🏆 Top 16 Validators by APY</h1>
+      <h1>🏆 Top Validators by APY (sample)</h1>
       <table>
         <thead>
           <tr>

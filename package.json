@@ -1,25 +1,30 @@
 {
   "name": "staking-dapp",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Staking dashboard DApp",
   "type": "module",
   "scripts": {
-    "start": "node sdk/src/validators.js",
-    "dev": "nodemon validators.js"
+    "start": "vite",                          
+    "build": "vite build",                  
+    "preview": "vite preview",               
+    "sdk:test": "node sdk/src/validators.js",
+    "sdk:watch": "nodemon sdk/src/validators.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@polkadot-api/descriptors": "^0.0.1",
     "@polkadot/api": "^16.4.6",
-    "polkadot-api": "^1.16.4"
+    "@polkadot-api/descriptors": "^0.0.1",
+    "polkadot-api": "^1.16.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/node": "^24.3.0",
     "nodemon": "^3.1.10",
     "ts-node": "^10.9.2",
-    "typescript": "^5.9.2"
+    "typescript": "^5.9.2",
+    "vite": "^5.3.0"
   }
 }

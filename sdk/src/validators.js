@@ -1,9 +1,6 @@
 // sdk/src/validators.js
 import { ApiPromise, WsProvider } from '@polkadot/api';
 
-/**
- * Connect to Polkadot node with retry + exponential backoff
- */
 export async function connectApi(
   endpoint = 'wss://rpc.polkadot.io',
   maxRetries = 5
@@ -13,10 +10,9 @@ export async function connectApi(
 
   while (attempt < maxRetries) {
     try {
-      const wsProvider = new WsProvider(endpoint, 10_000); // 10s timeout
+      const wsProvider = new WsProvider(endpoint, 10_000);
       const api = await ApiPromise.create({ provider: wsProvider });
 
-      // ✅ Listen for disconnects & auto-reconnect
       wsProvider.on('disconnected', () => {
         console.warn('⚠️ Disconnected from node, will attempt reconnect...');
       });
@@ -30,7 +26,7 @@ export async function connectApi(
     } catch (error) {
       lastError = error;
       attempt++;
-      const delay = Math.min(2 ** attempt * 1000, 30_000); // exponential backoff (capped at 30s)
+      const delay = Math.min(2 ** attempt * 1000, 30_000);
       console.warn(
         `⚠️ Connection attempt #${attempt} failed: ${error.message}. Retrying in ${
           delay / 1000
@@ -45,46 +41,28 @@ export async function connectApi(
   );
 }
 
-/**
- * Get all active validators for the current session
- */
 export async function getValidators(api) {
   const validators = await api.query.session.validators();
   return validators.map((v) => v.toString());
 }
 
-/**
- * Get the current active era
- */
 export async function getActiveEra(api) {
   const activeEra = await api.query.staking.activeEra();
   return Number(activeEra?.index || 0);
 }
 
-/**
- * Get validator data for a specific era
- */
 export async function getValidatorEraData(api, eraIndex, validatorId) {
-  // ✅ Runtime checks
-  if (eraIndex < 0) {
-    throw new Error(`❌ Invalid eraIndex: ${eraIndex} (must be >= 0)`);
-  }
-  if (!validatorId || typeof validatorId !== 'string') {
-    throw new Error(`❌ Invalid validatorId: ${validatorId}`);
-  }
+  if (eraIndex < 0) throw new Error(`❌ Invalid eraIndex: ${eraIndex}`);
+  if (!validatorId) throw new Error(`❌ Invalid validatorId: ${validatorId}`);
 
-  // ✅ Ensure correct Substrate types
   const era = api.createType('EraIndex', eraIndex);
   const accountId = api.createType('AccountId', validatorId);
 
-  // Total payout for this era
   const totalPayoutRaw = await api.query.staking.erasValidatorReward(era);
   const totalPayout = totalPayoutRaw ? BigInt(totalPayoutRaw.toString()) : 0n;
 
-  // Reward points for all validators
-  const entries = await api.query.staking.erasRewardPoints(era);
+  const rewardPointsStruct = await api.query.staking.erasRewardPoints(era);
 
-  // Validator commission prefs
   const commissionRaw = await api.query.staking.erasValidatorPrefs(
     era,
     accountId
@@ -93,7 +71,6 @@ export async function getValidatorEraData(api, eraIndex, validatorId) {
     ? Number(commissionRaw.commission) / 1_000_000_000
     : 0;
 
-  // Staker info
   const stakersOverview = await api.query.staking.erasStakers(era, accountId);
   const totalStake = stakersOverview?.total
     ? BigInt(stakersOverview.total.toString())
@@ -102,27 +79,23 @@ export async function getValidatorEraData(api, eraIndex, validatorId) {
     ? BigInt(stakersOverview.own.toString())
     : 0n;
 
-  // Extract this validator’s reward points
+  // ✅ Correctly read reward points
   let rewardPoints = 0n;
-  if (entries?.individual) {
-    const found = entries.individual.find(
-      ([id]) => id.toString() === validatorId
-    );
-    if (found) {
-      rewardPoints = BigInt(found[1].toString());
+  if (rewardPointsStruct?.individual) {
+    const points = rewardPointsStruct.individual.get(accountId);
+    if (points) {
+      rewardPoints = BigInt(points.toString());
     }
   }
-  const totalRewardPoints = entries?.total
-    ? BigInt(entries.total.toString())
+  const totalRewardPoints = rewardPointsStruct?.total
+    ? BigInt(rewardPointsStruct.total.toString())
     : 0n;
 
-  // Validator share of payout
   const validatorShare =
     totalRewardPoints > 0n && rewardPoints > 0n
       ? (rewardPoints * totalPayout) / totalRewardPoints
       : 0n;
 
-  // Net rewards after commission
   const rewardAfterCommission =
     validatorShare > 0n
       ? validatorShare -
@@ -131,7 +104,6 @@ export async function getValidatorEraData(api, eraIndex, validatorId) {
           1_000_000_000n
       : 0n;
 
-  // APY calculation
   const stakingReturns =
     totalStake > 0n ? Number(rewardAfterCommission) / Number(totalStake) : 0;
   const apy = stakingReturns * 365.24219 * 100;
@@ -145,4 +117,41 @@ export async function getValidatorEraData(api, eraIndex, validatorId) {
     rewardAfterCommission,
     apy: Number.isFinite(apy) ? apy : 0,
   };
+}
+
+// Run immediately if called directly
+if (import.meta.url === `file://${process.argv[1]}`) {
+  (async () => {
+    const api = await connectApi();
+    const era = await getActiveEra(api);
+    console.log(`📌 Active Era: ${era}`);
+
+    const validators = await getValidators(api);
+    console.log(`🔍 Found ${validators.length} validators`);
+
+    const results = [];
+    for (const v of validators) {
+      try {
+        const data = await getValidatorEraData(api, era, v);
+        results.push(data);
+      } catch (err) {
+        console.warn(`⚠️ Skipping validator ${v}: ${err.message}`);
+      }
+    }
+
+    const sorted = results.sort((a, b) => b.apy - a.apy).slice(0, 10);
+    console.log('🏆 Top 10 Validators by APY:');
+    sorted.forEach((v, i) => {
+      console.log(
+        `${i + 1}. ${v.validatorId}\n` +
+        `   APY: ${v.apy.toFixed(2)}%\n` +
+        `   Commission: ${(v.commission * 100).toFixed(2)}%\n` +
+        `   Own Stake: ${v.ownStake}\n` +
+        `   Total Stake: ${v.totalStake}\n` +
+        `   Reward After Commission: ${v.rewardAfterCommission}\n`
+      );
+    });
+
+    process.exit(0);
+  })();
 }
