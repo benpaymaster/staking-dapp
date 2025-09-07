@@ -5,7 +5,7 @@ import {
   getLastNonZeroEra,
   fetchValidatorsProgressively,
   checkValidatorActivityAcrossEras,
-  ValidatorData,NominatorEra
+  ValidatorData,NominatorEra,
   NominatorEraActivity,
 } from "./src/sdk/validators.ts";
 
