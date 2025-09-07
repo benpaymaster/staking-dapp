@@ -10,6 +10,7 @@
     "ts-node": "ts-node src/sdk/validators.ts"
   },
   "dependencies": {
+    "@polkadot-api/descriptors": "file:.papi/descriptors",
     "@rollup/plugin-inject": "^5.0.5",
     "buffer": "^6.0.3",
     "process": "^0.11.10",

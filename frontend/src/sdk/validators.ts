@@ -1,8 +1,11 @@
+// frontend/src/sdk/validators.ts
 import { ApiPromise, WsProvider } from "@polkadot/api";
 import type { Option, u32 } from "@polkadot/types";
 import BN from "bn.js";
 
-// Use only numbers in ValidatorData for frontend compatibility
+// ------------------- INTERFACES -------------------
+
+// Validator data for progressive fetch
 export interface ValidatorData {
   validatorId: string;
   commission: number;
@@ -11,6 +14,13 @@ export interface ValidatorData {
   rewardAfterCommission: number;
   apy: number;
   rewardPoints: number;
+}
+
+// Multi-era activity type for a nominator
+export interface NominatorEraActivity {
+  era: number;
+  validator: string;
+  active: boolean;
 }
 
 // ------------------- CONNECT -------------------
@@ -52,37 +62,32 @@ export async function fetchValidatorsProgressively(
   batchSize: number,
   onBatch: (batch: ValidatorData[]) => void
 ): Promise<void> {
+  const rewardPoints: any = await api.query.staking.erasRewardPoints(era);
+
   for (let i = 0; i < validatorIds.length; i += batchSize) {
     const batch = validatorIds.slice(i, i + batchSize);
     const batchResults: ValidatorData[] = [];
 
-    const rewardPoints: any = await api.query.staking.erasRewardPoints(era);
-
-    // Total reward pot for the era
-    const eraRewardOpt = (await api.query.staking.erasValidatorReward(era)) as Option<any>;
-    const eraReward = eraRewardOpt.isSome ? eraRewardOpt.unwrap().toBn() : new BN(0);
-
     for (const validatorId of batch) {
-      const [exposure, prefs] = await Promise.all([
+      const [exposure, prefs, eraRewardBN] = await Promise.all([
         api.query.staking.erasStakers(era, validatorId),
         api.query.staking.erasValidatorPrefs(era, validatorId),
+        api.query.staking.erasValidatorReward(era, validatorId),
       ]);
 
       const commission = prefs.commission.toNumber() / 1e7;
       const totalStakeBN = exposure.total.toBn();
       const ownStakeBN = exposure.own.toBn();
+      const indivPoints = rewardPoints.individual.get(validatorId) || new BN(0);
 
-      const indivPoints =
-        (rewardPoints as any).individual.get(validatorId) || new BN(0);
-
-      // Validator’s portion of era rewards
+      // Validator’s portion of era reward
       const validatorReward =
         rewardPoints.total?.gtn(0) && indivPoints?.gtn(0)
-          ? eraReward.mul(indivPoints.toBn()).div((rewardPoints as any).total.toBn())
+          ? eraRewardBN.toBn().mul(indivPoints.toBn()).div(rewardPoints.total.toBn())
           : new BN(0);
 
       // After commission
-      const rewardAfterCommissionBN = validatorReward
+      const rewardAfterCommission = validatorReward
         .mul(new BN(1e7 - prefs.commission.toNumber()))
         .div(new BN(1e7));
 
@@ -90,7 +95,7 @@ export async function fetchValidatorsProgressively(
       let apy = 0;
       if (totalStakeBN.gt(new BN(0))) {
         apy =
-          rewardAfterCommissionBN
+          rewardAfterCommission
             .mul(new BN(365 * 10000))
             .div(totalStakeBN)
             .toNumber() / 100;
@@ -101,7 +106,7 @@ export async function fetchValidatorsProgressively(
         commission,
         totalStake: totalStakeBN.toNumber(),
         ownStake: ownStakeBN.toNumber(),
-        rewardAfterCommission: rewardAfterCommissionBN.toNumber(),
+        rewardAfterCommission: rewardAfterCommission.toNumber(),
         apy,
         rewardPoints: indivPoints.toNumber(),
       });
@@ -109,5 +114,25 @@ export async function fetchValidatorsProgressively(
 
     onBatch(batchResults);
   }
+}
 
+// ------------------- MULTIPLE ERA CHECK -------------------
+export async function checkValidatorActivityAcrossEras(
+  api: ApiPromise,
+  address: string,
+  startEra: number,
+  endEra: number
+): Promise<NominatorEraActivity[]> {
+  const nominator = await api.query.staking.nominators(address);
+  const results: NominatorEraActivity[] = [];
+
+  for (let era = startEra; era <= endEra; era++) {
+    for (const validatorId of nominator.targets) {
+      const overview = await api.query.staking.erasStakers(era, validatorId);
+      const active = overview.total.toBn().gt(new BN(0));
+      results.push({ era, validator: validatorId.toString(), active });
+    }
+  }
+
+  return results;
 }
