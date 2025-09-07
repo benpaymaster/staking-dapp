@@ -39,7 +39,7 @@ npm install
 
 ---
 
-## ▶️ Running the SDK (Backend)
+##▶️ Running the SDK (Backend)
 
 npm run sdk:test
 

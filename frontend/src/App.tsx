@@ -1,78 +1,78 @@
 // frontend/src/App.tsx
-import React, { useEffect, useState } from 'react';
-import './App.css';
-
-
-interface ValidatorData {
-  validatorId: string;
-  totalStake: bigint;
-  ownStake: bigint;
-  commission: number;
-  rewardAfterCommission: bigint;
-  apy: number;
-  rewardPoints: bigint;
-}
+import React, { useEffect, useState } from "react";
+import "./App.css";
+import {
+  connectApi,
+  getValidators,
+  getLastNonZeroEra,
+  fetchValidatorsProgressively,
+  ValidatorData
+} from "./sdk/validators";
 
 const App: React.FC = () => {
   const [validators, setValidators] = useState<ValidatorData[]>([]);
-  const [loading, setLoading] = useState<boolean>(true);
+  const [loading, setLoading] = useState(true);
+  const [progress, setProgress] = useState("Starting...");
   const [error, setError] = useState<string | null>(null);
-  const [progress, setProgress] = useState<string>("Starting...");
 
   useEffect(() => {
+    let isMounted = true; // for cleanup in case component unmounts
+
     const fetchValidators = async () => {
       try {
-        setLoading(true);
-        setProgress("Connecting to Polkadot…");
+        setProgress("Connecting to Polkadot node...");
+        const api = await connectApi();
 
-        // Use more reliable public endpoint
-        const api = await connectAp("wss://polkadot-rpc.publicnode.com");  
-        console.log("✅ Connected to Polkadot");
-
+        setProgress("Fetching validator IDs...");
         const validatorIds = await getValidators(api);
-        console.log(`📡 Got ${validatorIds.length} validators`);
 
-        const eraIndex = await getActiveEra(api);
-        console.log(`📌 Active era: ${eraIndex}`);
-        const targetEra = eraIndex > 0 ? eraIndex - 1 : eraIndex;
+        setProgress("Determining last era with rewards...");
+        const lastEra = await getLastNonZeroEra(api);
 
-        const validatorData: ValidatorData[] = [];
+        setProgress(`Fetching ${validatorIds.length} validators from era ${lastEra}...`);
 
-        // Limit to first 5 for debugging
-        const sampleIds = validatorIds.slice(0, 5);
+        // Fetch validators in batches progressively
+        await fetchValidatorsProgressively(
+          api,
+          lastEra,
+          validatorIds,
+          20,
+          (batch) => {
+            if (!isMounted) return;
 
-        for (let i = 0; i < sampleIds.length; i++) {
-          const id = sampleIds[i];
-          setProgress(`Fetching validator ${i + 1}/${sampleIds.length}`);
-          try {
-            console.log(`🔎 Fetching data for validator ${id}`);
-            const data = await getValidatorEraData(api, targetEra, id);
-            validatorData.push(data);
-          } catch (innerErr: any) {
-            console.warn(`⚠️ Skipping validator ${id}: ${innerErr.message}`);
+            setValidators((prev) => {
+              const updated = [...prev, ...batch].sort((a, b) => b.apy - a.apy);
+              setProgress(`Fetched ${Math.min(updated.length, validatorIds.length)} / ${validatorIds.length} validators...`);
+              return updated;
+            });
           }
-        }
+        );
 
-        validatorData.sort((a, b) => b.apy - a.apy);
-        setValidators(validatorData);
+        if (!isMounted) return;
+        setProgress("All validators fetched!");
+        setLoading(false);
       } catch (err: any) {
         console.error(err);
-        setError(err.message || "Unknown error occurred");
-      } finally {
-        setLoading(false);
-        setProgress("");
+        if (isMounted) {
+          setError(err.message || "Unknown error occurred");
+          setLoading(false);
+        }
       }
     };
 
     fetchValidators();
+
+    return () => {
+      isMounted = false; // cancel state updates if component unmounts
+    };
   }, []);
 
-  if (loading) return <div className="loading">Loading validators… {progress}</div>;
+  if (loading) return <div className="loading">Loading… {progress}</div>;
   if (error) return <div className="error">Error: {error}</div>;
 
   return (
     <div className="App">
-      <h1>🏆 Top Validators by APY (sample)</h1>
+      <h1>🏆 Top Validators by APY</h1>
       <table>
         <thead>
           <tr>
@@ -82,6 +82,7 @@ const App: React.FC = () => {
             <th>Own Stake</th>
             <th>Reward After Commission</th>
             <th>APY (%)</th>
+            <th>Reward Points</th>
           </tr>
         </thead>
         <tbody>
@@ -93,10 +94,12 @@ const App: React.FC = () => {
               <td>{v.ownStake.toString()}</td>
               <td>{v.rewardAfterCommission.toString()}</td>
               <td>{v.apy.toFixed(2)}</td>
+              <td>{v.rewardPoints.toString()}</td>
             </tr>
           ))}
         </tbody>
       </table>
+      {progress && <div className="progress">{progress}</div>}
     </div>
   );
 };

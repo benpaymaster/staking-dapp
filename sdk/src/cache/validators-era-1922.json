@@ -1,0 +1,4802 @@
+[
+  {
+    "validatorId": "114SUbKCXjmb9czpWTtS3JANSmNRwVa4mmsMrWYpRG1kDH5",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "11VR4pF6c7kfBhfmuwwjWY3FodeYBKWx7ix2rsRCU2q6hqJ",
+    "commission": 0.007,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "11uMPbeaEDJhUxzU4ZfWW9VQEsryP9XqFcNRfPdYda6aFWJ",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1123RekaPHgWaPL5v9qfsikRemeZdYC4tvKXYuLXwhfT3NKy",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "112CoSmozcyQv7BNJ1fqm7G11tnBAanWjwsFrvwWpYJsUuh1",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13mK8AssyPekT5cFuYQ7ijKNXcjHPq8Gnx6TxF5eFCAwoLQ",
+    "commission": 0.04,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "144i3MsnDSGAi5F4XsfRe8kSS7Sy2hfbXaydgnN1UGW1vsQ",
+    "commission": 0.02,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14fcsJbrR7MQfUMJmb7NKpE2shVRyko17rt2PcaY4HKthQg",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15uCAG6qK9qdx3EG3kyb5TFn83PgFUSQEioUgA9GLTjMFfq",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15xn6gRCCB28TbNMQr4jpQ6pTTmqZ2PAkmfYz9tDaTwncMh",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16KjnbCmBXqT3R956sHak7THsgQZ9Ek8ibnG1sFyCNtfJ8y",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16RfWatcKzDUqYyGKifUhHDcossWumW7bkyiX9fEMN77WKA",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16zgGRrNMKBfz5CGJgvAmkavER9T8syxVBELqVA8SMLP3gm",
+    "commission": 0.028,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1737bipUqNUHYjUB5HCezyYqto5ZjFiMSXNAX8fWktnD5AS",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "17NNvQg1ZEYo6VeBE7X9z9hdAiCvbEHLKnwfgUJLkj9RCK1",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "17T31HJzsoBFkwpje8CqvgUpFGSzAVR3NcaNxacknfHYopx",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "18xmWVx2sRYSDEv2XDrPviDxkQft7A4gzxViGTQ4vTwQVcc",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1917XxexsKrPL74VVohQpReVTpjLXFJ7aZ2VqVF6aR12Xjz",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "19K3AKAkcrVWcXrXCXJ1fbaySuo58kUXhpsh7gBpa6emdgz",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "19MDWWzc5nBTroVSN8cQFYkSC1x6ZYJ7s1846Ff5MKdutuh",
+    "commission": 0.035,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "19QjsGF2Gdfag3uNgRT4zpVQqJuvHS6eX6cK3R6LDeq9wyf",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "19v8rnEDLbrJSyuCLao768QnA6v7SxincyDhQkCD6BYmYhE",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1A2ATy1FEu5yQ9ZzghPLsRckPQ7XLmq5MJQYcTvGnxGvCho",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1ArdZJtNUrZsfidfn1t69xHaSWwzf6PQNdLEUpcnVmbkZc5",
+    "commission": 0.009,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1BwjS7oyQ5EDGrdfMBgbVRAXkW5fnbWeQAYWaSCzu27dwwh",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1C6dNJfCv5ANCWuXUsJT1XdvU6P9VAQWweYb59SEEjzEATa",
+    "commission": 0.035,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1CGs7yMf55AdzjYkNjVbc4WyibUPwDEdBwbDngTu9dD2ouq",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1CZdvokFgBMfU2Fjv2tE9HCbjq3tNbTgpW4bXKVciAN53NH",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1E5Sq4tX9mbUVBDxjrNbzHzhZpWbWMSRmJxVikJqJovJgKV",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1ELXjXXoFGVaBFdZ3HSo61E5ySRhr68sC4pArQHcDqt2NFR",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1ERUvCzrrA5GfUfnQyxSjNPudMKEwcD5rtp661Dbfb4EdTG",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1EheUmzB58Y26i8hse4EJo9ffG3M5qmhHzrFXJMQLkY9HoX",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1Ew5wAsMtvbRdd4RdxSheLpEkSRc718gtcfTv8EmgzEbknA",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1EwUAppef3eii8rNEXM44WxVsB6y1apZkfD8ejpwH7d4nmQ",
+    "commission": 0.025,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1GmTVLwj9K91jQBmnPWM4KkwQFWGakUo5JUDKUPD6TPrZTC",
+    "commission": 0.035,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1HMQVknF2rGz2vBegqA9jU4NhZKQtW7nZTDQykgeSm8FgPa",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1HjWQTK8xe8xncukmcwUvQLTXRdfMW6aruMn5kXLDwMim2P",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1HmAqbBRrWvsqbLkvpiVDkdA2PcctUE5JUe3qokEh1FN455",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1KQS1Tsk9oKrTJ6u5vJs7bF3Zh8JqceZSuUkaAdJ1DZxoPN",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1KfeQgNt2h9mxB9eHqkr7rWrXjP3qPoZdnS65GYyyp99C8d",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1Ki7BgQXWVqptuQzYCZxdMj8inHhDePvQTJiFr3XvBQWkRP",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1Kmfp4pKbspNG94nLgUzdoz526uMh9RojCNoFKr1GXrgodo",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1KmtAWkiVGRdMB9mBV6JVAcRw7ce8tZKY3L5ZH7uTNK4yMx",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1Ks98VYd7ZoRzFxWctQtFTghM6vL69g6MpEYp1D5c5w1iXr",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1KvmDU738aReuE8La7wvVcJSTcnVf9ZU9YmWUK8QpHVeLX2",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1LMtHkfrADk7awSEFC45nyDKWxPu9cK796vtrf7Fu3NZQmB",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1LSJZCk7hGj5Q7afjzdNCtWsTQQUGwNoHbJQoFz3YUscgh9",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1LSvoFpnspPhvwgJ1GLLT4SRHBmWXwXE26JHiiZJ4RKxHqC",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1MAQf4f1rbNHBJ4JxCtRgCJjvPazJDZZPGoX1AyV96wQTLe",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1NDRMvN7FH9YtJLVPf9doF5zbuUwn6hdH1b4WmVyZDr5joM",
+    "commission": 0.04,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1NchFAs3YJHr2BzoCsJW3m5HgD5XaHAQokUatme4bgyxEm9",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1NebF2xZHb4TJJpiqZZ3reeTo8dZov6LZ49qZqcHHbsmHfo",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1Pa88VEmcsSg7ZVKFSKG9VzF6otQYM9HiAV8SujvSRAJo7J",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1QNkyKDqdjYn3vHiSLwXPT5hMgy12W4BinGe5Z3sQVxqJaA",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1QmHs5E9zGeJ2iGZMYoBdYKvNLfF316WGi7GvGtSruUJzW9",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1Qowgb1YqPTVA2R3DBSbtyk9V3gh2nwGohYonvZ6q8JL9dF",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1QtS58VE3x1XoVRmEjBibqEff3XWjdK6fqQKw2gLwzFgDTc",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1RFEB8hM8DSBojiSZPydc2CrozNutn65BAypYMzpNxSTFsZ",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1RG5T6zGY4XovW75mTgpH6Bx7Y6uwwMmPToMCJSdMwdm4EW",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1RJP5i7zuyBLtgGTMCD9oF8zQMTQvfc4zpKNsVxfvTKdHmr",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1RhqvtG4SS6ooc3JELk8kpTaDiLP9f92jdyR5p5efPWVsx1",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1TM8cvbeb2wGw2tjfdp8wdoP9Wa1QHEycTsivDfRDpqYq55",
+    "commission": 0.035,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1TunGctS5HELfuJZjd5qBNoMVsST2EBdMw5vWK8f3dCFbq9",
+    "commission": 0.005,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1VrKDfXunzstY5uxPpjArUbZekirGXcpMDYvCBJmjV1KdEm",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1W7CrXX5DE9SM3A4XP8zdhGq6EXWXonCtDmtrS8XgQJwuVm",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1WJhHDwQFJgcyy3rNsaVnJmryDc6jpJdrUWHYBBHhxVa3RA",
+    "commission": 0.02,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1WLTprf3uUDPz9HbQFe3t2CJdSrpUgiVzvxCbC9yKDSta24",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1Wo6qcrh7wxc1kQY5nfixFuCAFuzkgiwau64SmrPXBE7vVf",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1X8p3KgPYTMf6296omDtMsgCBVXwsWo5NvDBDChniyEPL74",
+    "commission": 0.035,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1Y2D4qp5Sm9SPKZhaoN6jRoA5b7PFR3njaZLJygeNUjjr3X",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1Y7eWuJarw1MUMf13YQiiTrgq2GAxzF4YR4JATi6G4a6Pgx",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1Yi8HY3jPZVqpByf8ESDdt4rXWCZLKy4tHfsSZUAegz3uF9",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1ZHNWmKsVHCS528yKDteRPpnx5hTrGUZvyjEpvaWppKDiPt",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1ZKHNRib33noQn1FpjFsPCHuVYUfci5TXy4Lif1FcUUwZe6",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1ZVP61Y4pFV5XqfrW6HXA8qAxsaN34aqFsFEidB8cMvdEkV",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1ZXdGs6gFETHVTEW9RAZXwYxkDwAfE7wdt6czjBM4QRfMfk",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1ZyhbSPMDMMuveHErhmd4XR4YK7r23E1kwn1RQzhp2EnSme",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1bAVKRsNUbq1Qmvj7Cemkncjo17WgyWAusCFZQdUfeHSTYj",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1brNvj8Y6pYTKQGitEHbL237PmV2XZvFhpw5QiUcGbSoYDq",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1bxnxTev14jMGab4QRXeafa7chTRHV7ZZ9e6GrKrrpXAHtM",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1cFsLn7o74nmjbRyDtMAnMpQMc5ZLsjgCSz9Np2mcejUK83",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1d6po5LATxuHeAUTSRd61LGA6QWJ7dJRzi852kojKFLbL3t",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1dGsgLgFez7gt5WjX2FYzNCJtaCjGG6W9dA42d9cHngDYGg",
+    "commission": 0.02,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1eU1WMiUCBTxuCoVSE1HMQ4YyqfWuTfL9eX573cc3GCP5ow",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1edsjLpqQ4QxtgLPP5xQiNNkjzKcXuaNmUQ6vc944J1jQAa",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1gYP3iNJY3iNNtgmMdRcZXJruc9SqruknuBdQ3TbtpBM7xK",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1guBaaUmYpYPmsNmooQApqFmpmRHeaipb1CxoncMuiaqXGh",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1hFMbRrA43YckuwGDW3zzHFSfX64wZMezqg4pmhe8P2srtu",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1hchSbMVTPrxmMuuCQQ2dkZnUcWLwNHcuU4C5RR9raKkfXh",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1iyDF3iHuNjTNuQS7XEqMSdvx4CrdaxK6kLhpMCBc9rKumm",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1jbUHVCrwyKtUmoCZ4sJousx1og8aoP1HEyFcAW6xvdKYCU",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1jeB5w8XyBADtgmVmwk2stWpTyfTVWEgLo85tF7gYVxnmSw",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1jqkeJhuoRudNTVL5dV1qZf8RQtyzcf6ZT4yyvUQbKFktr8",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1k5HSoFHQ6qWB7NAu8bVXgUo64rfdA5YytAKq2jUWG5ccFe",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1nTfEEWASm1x6D16FPLLjPFC42Fb7Q5zLovrxQpPQe6j86s",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1ngMQVEqj9Dm1RNUxAQTNeBwePyKq8rXcM5x3bT2KqgFZ5n",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1php1QhFeBvoZxuDF32kGLhrJ5w1eJuSCuftDW3uujd8kB5",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1q5QgXCsasUtjvwq8ByT5QPivNgidUSR55c4kFJnjKSiF4q",
+    "commission": 0.02,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1qUKZLhxVGUPozs8j8XpxH8VbZX5ckXV7ziUf6ji83ieZYd",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1sAkfdTH3cHAdJRYqMPNdeV7GhTKrddvMfkQrm3pQBABWrN",
+    "commission": 0.007,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1scioGhw4gEtZP94gYyRDupmKaDUdEsohuecWoVrNB5q8ec",
+    "commission": 0.02,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1ufRSF5gx9Q8hrYoj7KwpzQzDNqLJdbKrFwC6okxa5gtBRd",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1v7QwYLMaABh7eyFKN9PHbKquAyPt6PtcYZZWvf12KV5pMk",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1vP68Adjn7JW7brJJc89V7R4hAXPtJr3FzKuJF1qm6uyzWt",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1vRNR4nicdV1LbxGWJg15Lr4ZL3tn8e5bwbP1LNqAwQWdiH",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1vTaLKEyj2Wn9xEkUGixBkVXJAd4pzDgXzz9CuVjhVqhHRQ",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1wcx1MBUQkmHL1ed4jMjo7U7eNNVvZjV7iVYedP7FEKqay6",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1xdwfgYK3Tnpn4pdXkG5wMdbsKKgj84es1GbyiQvNNrawtx",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1xgB6seaZbH1v7GnK686iiNcqafPyGa3KexabQSSFhQcfAy",
+    "commission": 0.02,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1y3bTaJiiTbyp8run4WG7XKrqZC7Zxw1AZVAeyNXj48ybhW",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1y6CPLgccsysCEii3M7jQF834GZsz9A3HMcZz3w7RjGPpBL",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1yHi5zxx5d5RBFg7ekfFoPnoaD8W2wmQqNN6crDr4RKUphP",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1yMDtinZfWBBhSWfoTvSV9o7EH1rVrEPZNDK9JcAUc45CNZ",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1zugcaaABVRXtyepKmwNR4g5iH2NtTNVBz1McZ81p91uAm8",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1zugcabTuN7rs1bFYb33gRemtg67i4Mvp1twW85nQKiwhwQ",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1zugcacYFxX3HveFpJVUShjfb3KyaomfVqMTFoxYuUWCdD8",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1zugcacan4nrJ3HPBmiBgEn2XvRMbehqvmzSQXT3uLBDkh3",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1zugcaebzKgKLebGSQvtxpmPGCZLFoEVu6AfqwD7W5ZKQZt",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1zugcag7cJVBtVRnFxv5Qftn7xKAnR6YJ9x4x3XLgGgmNnS",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1zugcajKZ8XwjWvC5QZWcrpjfnjZZ9FfxRB9f5Hy6GdXBpZ",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1zugcakrhr3ZR7q7B8WKuaZY5BjZAU43m79xEyhNQwLTFjb",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1zugcapKRuHy2C1PceJxTvXWiq6FHEDm2xa5XSU7KYP3rJE",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1zugcawsx74AgoC4wz2dMEVFVDNo7rVuTRjZMnfNp9T49po",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "121MoEeXB7xYcyww8w77C2SxjcSKaxfGURQebibU28G3Tb7D",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "121gZtuuG6sq3BZp1UKg8oRLRZvp89SAYSxXypwDJjaSRJR5",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "123NTSsVV27PnQBQMXPASetJQZUjUWc9ZuFzNMRBKQooRFdh",
+    "commission": 1e-9,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "123QZsdqWw5ygyKVRQ9aWQFHghbGaS9AWWYsZivZcwfbGZ4g",
+    "commission": 0.035,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "123VugBRFMqUEFviSYrG3ewdZ46ZmqxjmRaGY6BvakfdPVaG",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "123kFHVth2udmM79sn3RPQ81HukrQWCxA1vmTWkGHSvkR4k1",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "123tW2XkkkA23FPcPikULPtYARWkztBKVE7fv2k48FgPV15q",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "124X3VPduasSodAjS6MPd5nEqM8SUdKN5taMUUPtkWqF1fVf",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "124YFXA3XoRs9Epcx3aRUSk3EKYaznocqMWfrMKtGjx8TJ2W",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "126RwaHn4MDekLWfUYfiqcVbiQHapwDSAT9vZZS15HLqfDJh",
+    "commission": 0.04,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "126cWhehuBFhQvbDqt26dWBNgELfkpc72WvJV3sx82qRogkT",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12713bbq45c66CN9AD7yusSXWE1kY91DcMpjVcB2rXqZKy2w",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12771k5UXewvK7FXd1RpPHxvFiCG4GQCrxRmXWN5tAAwDQoi",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "127zarPDhVzmCXVQ7Kfr1yyaa9wsMuJ74GJW9Q7ezHfQEgh6",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "128cG9CRYUL8XRzB8n53jjfb1iJ2FasrMdrTVHjKguqg5CPS",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "128s81jFBAUESm9zvNqHaE6Dq2Qs4Gv8wPMZZhpmZr23j6e5",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "129TM37DNpyJqtRYYimSMp8aQZ8QW7Jg3b4qtSrRqjgAChQf",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12BQrr99YJPE1E8Aq1MbYkE1pj2JU4zyRtZvWN3o3UUwcdNz",
+    "commission": 1e-9,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12BVn5jTsJv78Kd8PhpguMnQjiBLUBzXTys9F8V8Scm7y4St",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12BkPLskXyXrHhktrinLxVFkPzzvCzCyVCaqHkUEoxMwSzeq",
+    "commission": 1e-9,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12C8CffSFabw8kx8AJaJ7Spnm54iktTjzW6mcYuLr4ZwAFdS",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12CJw9KNkC7FzVVg3dvny4PWHjjkvdyM17mmNfXyfucp8JfM",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12DsYUto9AcKA4kRz1yLcGh13CTLe7LbUjDkMS8ZY8rCK4rn",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12DvzVED8odXuDrrk4izuFKit2uFgpXrfSoXApLq7NjqfrLc",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12ECDEb18Wiy4MoLn3NTM5zhJfDfpS4mLNvjHpcEr8ogGrMZ",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12EJoY9YDAHcKAN95jD6kedaisjqnuwe2oyhU3XrpFo4Ezxe",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12ErBetb4FWp3992tXET1GtHrTW3TdhUXsnQd5zDuF9WaxYV",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12EwbukHX8SUkYtQSrYNxFD9GCkZ65E6orXAULzSsiSPooLN",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12GTt3pfM3SjTU6UL6dQ3SMgMSvdw94PnRoF6osU6hPvxbUZ",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12GsUt6XbVMHvKt9NZNXBcXFvNCyTUiNhKpVnAjnLBYkZSj1",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12H9FfSYdQ4GrKc7tdxK8U6DitAZMqfnhB8gtHwd2rpCiZfN",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12HC5RsJcPRNhemZ1dixD2f4MWCQUFzem6YDNNrqS9jz9off",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12HFymxpDmi4XXPHaEMp74CNpRhkqwG5qxnrgikkhon1XMrj",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12HZiQM4Hk44Lgug9EFGiZx5Vk1tSUbH4DsJSQcorurB4GdE",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12HfFn5RBJSUqYF5dLopowmSRqthTPQ7733LdT3ezNtUMxqf",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12Jv95j4ybvc94qjN9ZCHjENXEL85e9HgRVPyU7x2aJDzBp4",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12KYrnCDjdx1amhJfgmii5W1dGT1bgN4iMLy2r2BpX19XG1s",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12KzKVWqYqyEXx4RpPLvbPTakfrhNgfXeTWSR65CF8ZrFHrt",
+    "commission": 0.0195,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12L4a8t2RGou15GZDMu8Eokx4gXxQAim5MePgYjHeAeSmNHY",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12MgK2Sc8Rrh6DXS2gDrt7fWJ24eGeVb23NALbZLMw1grnkL",
+    "commission": 0.005,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12NbS8DamkXEi4xu9yUDz8ticuSsMda6rG7bhh2baK9RXX3x",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12QTG1GrqFtS6AJWw4NwHDXgbhPyjyT6BfJK5qAGedkvnrpQ",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12R2eXcE2QhMa9BkMsWktt9wmoxbgiQBDG9YUM1p94r2F5UD",
+    "commission": 0,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12RTaMcEfdU6QQhMNdUo931gxG8RxwbLZB1YoaxJwytp8b4i",
+    "commission": 0.035,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12T7VqGAcQzdxNk3Qub7Ln9jFnsN3dtJwdSsqNfThSeCAjSf",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12TemnsyrwfMXRsdUsnpeQGAof8nnoNRib8hDUivzAsBkr2t",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12UKciN33b5Thw4aiMxhewRNmWWH6vQPmaUtHC5ta1SBt6VZ",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12WRpiUFDZ1GjksnpmBL3EzT2jz2TZ7QHhUTqoubhYPQ7PAZ",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12WUg5s5hxBh9GZVVpqyZvbBravHhJSc548K9k1E2mjWPBbb",
+    "commission": 0.0025,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12WmM98h4Ar6y7ZyyMKPXwSyuP5GSZvXTbEkDXm1tirbZFW4",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12YFWxpS32wTZq4HcH28HMR5atkGhxzfD7aNjhTCu5Vyz9J9",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12YP2b7L7gcHabZqE7vJMyF9eSZA9W68gnvb8BzTYx4MUxRo",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12YVhYTtGpTCSXRvPHyNjDK7y5p4J52ppBVJGjWh2PGrUe9r",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12Yo8LQiJLoviSS6tWV98pvNVnhfjtQ1cqjE94q6Dn1d4e3F",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12Z3Bhjn42TPXy5re2CiYz1fqMd21i2XyBLmbekbjLXrqVBV",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12ZTDL5BPYrrPxLWZM2TEe3GckXm9rz86mDZSkRvWrXeJ3c1",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12aweZ5yqNHoKHG6yBQhWyY9mxvVpwQ4FNTQ18PPTvFbX2NE",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12bUkY5nrGyoXqBpxKDf88z5VQWzaUK83PCgyHtJ1UN1ujjU",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12cxB2QQWTNN9gpqSjeaMmgHUr1DJLRsMJeHuy6LptaBzrRY",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12dGS1zjyiUqj7GuxDDwv9i72RMye1mT7tSWNaSx7QVeJ32H",
+    "commission": 0.02,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12dcw2zLV55dhmLc2FQwDsNWSmWBes9jWseqek7DSZxEEWxr",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12doSHUJN1P6HL9zj96Bh2ZwVBXH7NcCi78caVtte8aQWGHz",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12dvyqCFhVubTDqMdojyjhkxVUMaYVXWLv8uZW1NomUunPmN",
+    "commission": 0.04,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12e1tkDgfF3GYdiTkRq1vunXrvvhpKq3BQZYbJ1haXHApQTn",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12e5iFDMe4DuBMRmQtRg5yzCc3vc6ZueSUZiF9sxMBRP1Q9r",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12eJYg9RLVtAphFfr7FZ7rV3T5NmRa1B6jWPGNgGzE1mEDSa",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12eU1BRZUobZSDRmsr6ZYGngdUqEBXCa9qfpZBhHyGSUT57v",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12gDFFh77N1mx27FRyujXzwoDnmw5pN4Cu7X1bZWyesK5gEB",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12gPFmRqnsDhc9C5DuXyXBFA23io5fSGtKTSAimQtAWgueD2",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12gandRebSiGHsyYyePTqcKghP2ij79QFRKv5AzqcaYNNiLN",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12gkhA8JEz8ywmVj1tsVafSp9C4saKzSofgMwBJcmFJAGUVX",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12gp3USksqBBrThp7G3QYJ2Nw3JR2azFxqYgsSch4NyPFgN5",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12h4jeQtjecPx2MyrXmMpQLBumAPxHgGiL7vFoaLkgVBQCNJ",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12h59u6mkMSi4Xpa6F6QKWQwn4oWx1dVxdm3V6noMdzGHmxx",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12iawP6HW33wj95sc3g7bVun8YkYnzP4FGkdmjnkpJowzUKf",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12iqwZGB2sguEhjFi2ZRuWWixU8mHJnSiP1pwDefqGsBy4rV",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12iyk5eDsjzKYPVrtduC4WNoCGynHHbjirv6gGpXPERkGYw8",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12jBKTExAPTLsJEPqp9nPha2vmuP4KK2aLPQ8cUwZ5GMtXkp",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12kfhcuKzM1WMwweyz3inYeYivufQguWVqkCh8Qz98JHKz7Q",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12oyrzYfsjH1SMJ4oydkibQNeS6k8uzk5DbymP8YkkJpaYbF",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12pHJra8Wm8TKmUhVjDJgcWbYQm5q7BPtzm7mmZGaJHBcf7u",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12pKYwvRiBqU3pNNUK1asvA8yqmttRJ5LMyWt8Nqh8D8Kgc5",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12pRpKrKXRyG6QSYX9gnvjMM4a8JPQ8nGzB8wNNY5sN7GGwA",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12pVRQpqU9vja9MnmLRvKpeVdL4zzBhA7byoy3atrqN1V8f9",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12pZ8VV6o3A6BFYg3b3kk6TC1ZD53x9bXwkoFenv183DEods",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12pZQvd4DsC1GQgaujxCPosv25teZRJsjcYRGQKH9teTZ7nw",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12ryLNrg44r7Qv7oWZa2wK6PuzUmAMueyVHRBsyR5N6anEaV",
+    "commission": 1e-9,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12s8FmQvy93DMcUwkzJ2hTqcVfakYDc2n7uCnTi5KroAa7DB",
+    "commission": 0.035,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12sNJAzECf7AUgz1Asc8iYTmoFZLy7prg88nuX5VASVZmjnq",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12uHpa5VLMW2kqnc7EPauggWhhapncBz4FtB6VpFSDNPdi8y",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12uT5wrkGedBiKLfPRZaSVdaoKQfpnQyLRHgB65cJHH3zQn9",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12ud6X3HTfWmV6rYZxiFo6f6QEDc1FF74k91vF76AmCDMT4j",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12uqiMnVAmuz6MhSVHyYzKeZuSneDK1Jga9yP6Zfnjs8yZFQ",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12wtfs4UfodYT1Y6y8NQsQaduLSJbhz7oaNt1F6gTLFHD1y5",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12x3EG6dvZv9h3sLNaEFd4z2q8259tNgiEU6vismjrEZjbzN",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12xdDFDSmYKYijQLjFNB3dgveDf9ymdzodHcBcQWsdYSBo8g",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12xedMA9ZJFe6Ui5VDYML3PsCde2LbhUzEYEPyCgFRcJvfRB",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12zQwS7c2oWQ91kTXSDCwUj8gvZb1rccSzKikcBxBivRdAwk",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12zYASSMxE7CJpWkCPaR6tqKzD8xHM6aWDYecECqr2BMXLT7",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "12zisb4tk4nxGyja1kiEkGFRWMGZo2mnUxpb5mqARfTjq8tE",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "131Qzz7SvHUn7zdDAt2jFZmzVsP2KkoiDWLZa9N7FivGTXpB",
+    "commission": 0.02,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "131bRoBPU1uUT7nyDqvi7bqMWPzrhMLrscmjpPXvfeFXyo5X",
+    "commission": 0.035,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13353aPRxkEPSQSu9EypGLWXCHbGbbDtaUpPASjdLrtdnyC5",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "133EMnuUGgQN1yCkSZJ28RmkkgY6eTP24EoB4aws5mGB2FpG",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1342iFZNrBfCP9VWxqt5p39LiHp2ynyq85Ww9K7R8w6BURps",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "134493oxkFuEiGx47AMnZZQGLrkrYLNquBXxdH9Krty16MDe",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "134Bw4gHcAaHBYx6JVK91b1CeC9yWseVdZqyttpaN5zBHn43",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "135rhF4kG1VxfrDf7a6c6TQzrPTyKNTqtXX5HDS8k4bDSeJy",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "136a4dn4RD3MHgM7k8isUgEL6rdpriuRT7pHaiW1mfVD2P28",
+    "commission": 0.035,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "136cgMVW8FeEdLAJmcLMd1CTo3QVZcheyQu1bA3fC9KXTqVe",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "138SnSYhxMUyAafW7QVnBxHiZtEjQXA1zbbE8jUayJ8e2Fer",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "138fgCNfybZ6BYbBb6b9kbkS4J4KnCXHpPFYue1EGnVSkyaf",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "138tCNoHg9QbhjqanRS7R8ZC8547A6CdaSmrCtJCRLpjQk6r",
+    "commission": 0,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "139J8svWogi6Xbn4rfYnCBCwh7CQj6hRxmSaZQMhTGsB81s1",
+    "commission": 0.006,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "139QeschFEpjMJECamzcMtAWewV7VsvbaRXMUbzN5yARfHCe",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13AxoWJYFEHxjrFYvjNCsad8XMqnbhEgH3G2ULPjiuudywNJ",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13B1jiLG32NNeEiuarQze5YQtJ3S3DpALrkK2kkXMs3Esgf9",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13BWVNKSQn9dTrLXhmgm3QHZZNCKZ9ToEsJitjypEvLwJB13",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13BeUcLu7hzSTaoKpEtpdqiXKZz6yVfT9exKH6JuTW8RQQvJ",
+    "commission": 0.02,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13DXEEVtyqbhCJzFVPTUk31oTzBxCJQtButgWGhrUdYu5muM",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13EEEhiXeCFpFjVQxmjJsHjr9LFvnAurcnwQ1FDgB5LmJwQp",
+    "commission": 0.049,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13EkBdSRSSqwHUQBr4tjaYVa8HZDQgm9RpsJFb2vFRiWLXky",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13Emjax1tBfQMEKisppTMMe7jMbqpmCH1jRpTXudLocaevND",
+    "commission": 0,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13GFUpQkNonsMMiBuYK4pqGUkwnE5AojvtigR95ahiimMaBb",
+    "commission": 1e-9,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13GquXigTiCgTnhCf82qpBugHEeNeLjFb5tpjoZicNePoXVR",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13JuwkvSqGUDo8zErgfC9ivGfKfcdDyceFkvh9NW4wz7NbuF",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13JvVC9TLVX5FT52Z4kEfQT6nZ36jVdJpwxsEaKbCjx23N9y",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13MeD3vqaN5cFKzX3hzBjkpLfoqwJGYGaA4dDgiiS55wVXGG",
+    "commission": 0.035,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13MqUAZVA2KEy3EChkzuVqdwPpe51DbmzDhLtxaca596W5S4",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13NL7w9SitBziaa9nBhWmuzmEaRTuX1RvWYs21zKyrvBokgT",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13NbzR1jse1FgB699sTDSfHUB4bqec1xKt7my7cXiL8oGd4w",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13Nd71b9XLWNptAcSgesGMKJctpm1uLjZBWDfVdeA6oyXdg6",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13Q48Ep3PVpvXA1BeVcUhNJerLshsaeq4EdgPUHnemqJYmND",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13QPp7NpcgPGFY8k5t5pcN2bSZXrubvwGd4piV6bu5LGczyU",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13Qh1MjFX8C31GguPGzzQT6PqUEGfrBkdsVXqHyx7k6PJmEF",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13REihPMQRbujGMrSUyCvWhg1Rrzuy2BAyXaRv4KXFyCsrMq",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13S541dQ5NXFCxSBqFUFghkCfUU6LsZUVem7z2tfvsJwWFys",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13Srw7dVtGJnZrV3o6RCAJ97MaGbSKShQQiSYjbGp4Jvu4Cs",
+    "commission": 0.02,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13TBraYSRLejaxxMqAYFQ87RNPoCy3c4LTE3Y7FKq4qcFEqf",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13VUefWScvmVkPFgNcup5XMpRy4ez9LMtCTi1kRhWpy5AiZk",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13Vfrc4PjiE4ZKsHxCa54AUpFRRPb1d247STD4Ankb82Fgaf",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13Ybj8CPEArUee78DxUAP9yX3ABmFNVQME1ZH4w8HVncHGzc",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13Z9qHxDALpNq7bwbwkjwPLR4vb7qwrEt3VNtVFzs3UB3NP6",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13bCTo1PNcdX2nY7Nrnrn4Bz2nBWWcNDbPLmFf3FhiavMkfC",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13bVhUJ3sf8dcZUiitAxdSNadDmx5QQ56efD3ZxkL9BnRCMX",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13ciCwiigFVCtuSfjkExneqU98CuRDhq7YXNUX1enwHcCr4E",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13dADwBtYmjGqjZTdYJ61H8WqLLe4eZiY9hjVPLJQ76DHUp8",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13dTRkoKWSDbZpcDtrNMW1uzns1ZKBmAUSzcp5vvpFRjuH1S",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13daqiLSUDEQ41cUAT2nEooAEyqZssiaBc8UGcdsW9aBjrw3",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13dbJuQL7Gg3V6ZUJEd47GrpR8czbbgYx1fVWNfJqHJihxji",
+    "commission": 0.035,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13dxtHunX3FLX3TJbLypxJXsoEuEYDcQZWn3TMf19tP17jEj",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13eCmuo7gHRGDa2xSFU7J2Sbdd2BbP7qtYgiyn7aUUWhWYV3",
+    "commission": 0.035,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13eG7ySsd1kv47PR44yszF23MDpqUgPNZwikZZ5cowF817h2",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13foHgXdzr1agokV6Ed9CBHGQG1NpBqvqhmUL7rojcBUBzvq",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13fqhWQCqTHTPbU1fyvbz9Ua3NC47fVVexYuNQRBwpSeZyKM",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13g1ypDWPNjjGKLQNMtLFiXLhBWvLxMDzPZJNik2cfD3NDBs",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13g3qpjcv4yuCEnqn7VFKbeq4LZ8qNMvNTJcfsaC4Dgms2tH",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13gQZWtAVc3v55wEpNfQR1VrDgEhNQdFr7x6q8pK5mW51Rn5",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13gVeT6Yhy9BWV6VrRuqS54Tk9ZY8PH32sbw9fPS4oWw7Pjg",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13giQQe5CS4AAjkz1roun8NYUmZAQ2KYp32qTnJHLTcw4VxW",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13iPW4pSokbEQWomqZhwsyrMWuNspt6R1YnuCHXqUVvFYM1H",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13iTwLiWy8jcZsUgeSJjvooy3wAhedrBq9yapo4QzhTH2npU",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13j3AKfGDjDaKvF2CrTADL1guzT542rqyRUzPXsiAxHUpzz7",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13jN7oYuc8TBcUwGjpjbSghvPE8DdEuArvjvymqTCB6Vkguc",
+    "commission": 0.007,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13mscy5wfYAmDBgLoA43rkWGpR1PJApcGtXJt8NvtMcM9VAr",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13mz9ZNxhBhRPFCw8D2mHeyGdZU2RJ5ZGHFLmfKfCHci2Wvj",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13nmvNGGE93Vi49wdmdhZqdFGyBAR5bfm9qEZpxnX9LJSDmb",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13ougYD2SRkn88L14XiYCJc3mL7AzWoAMVdn1FwLumV49LjU",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13pNR6YTSjW2TjGGhyVenKtzWEhBHk6wP5ScNDvfWkjwhXe2",
+    "commission": 0.035,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13pUqk3GeUYuumubfbDKduGY7oMH6CZrPA6qSNS99i8QSw7L",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13pYWKctR5s8vQuyZt3pxQXue4SRH9coyAS9S9z5HtogAnhs",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13pZskDR7Pt67NtcChSr4uFRBf9ZS52nQeyrceSykq8MDrMe",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13q4HqAupCcepyZXXi7468g7c9jjkRzM8jBywP8VsMKLN1mU",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13qsqBRWCaH12UsuKuaLuvW9M29FRjfxtZMmMMZLLi9JmyZc",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13r7kRpCTv7tZykQ392sHNUuDsUqQNoAXjMp9mzt4EDXe3vq",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13rG5oK2qskxP27mjUEyn1YbrmzpCV6fbBVcnBUd8Y7sQX6Z",
+    "commission": 0.045,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13sEUJrHpcyBZh6yKKwou6s9sXoMhVW9mfXq8xW75So9a9Ys",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13sULqZ2NidBvrocYwJYxT6WJkcSY77SiQXtFiJHsurTZgqN",
+    "commission": 0,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13uBxESEQZ63cKu4LtLNdHX7CYkokh5iiJryJSA2A2AZenJQ",
+    "commission": 1e-9,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13uW7auWPX9WAtqwkBx7yagb78PLcv8FAcPZEVCovbXoNJK4",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13usWtLF5J6KqeqkkRnNZqrKv2nPJJjLiJKau3nx6hHbWykC",
+    "commission": 0.04,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13v7qn69K6y3LPeYXhxjyhvwCMXA3JizyEJKksPb1aLcuU1R",
+    "commission": 0.02,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13wroNHV6aJEkUFJEx4NYv7kv5vgq4HypLAPSz347VVQbYj3",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13wxjPuajyJrHcBabsgoD7oqL1mJhFVWjeXFxEvMbSBY9xn9",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13xMdu77bqK4XDVxPRomi69QAkDcf4ZCsiJuf3FCW1eG1CGG",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13xTKARCtSSTtveDMuTz6s3t9nb1cU1Qasi3iA7BiHobxUdy",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13xa7rCYpABL4WvisHhzkwMtzKbEy8hoFDoXJU8efKqrCUPu",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13xfWrP1eF6mYp7mQ1CuNYVktPTxhP5Q2xGXiyVtv1j5hNFB",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13y1gcRK3GLZy7wzood9je2aZwwcXJMAgQj1ZgGZpFEHJ9Aj",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "13zEhzmZ29etGbhCvxZqKwkRkJ5UyeBnrDqQAUsqwHVVVisL",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1413DEcy31nBpzFN5XZeHv6i4iDECDkFs6pRcjp8H9fqSx98",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "141FXbEYs6vTwjN82h8zD8JGDNZW1qqgTt8KphUB1FqWG3BQ",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "141NH4UNM8n2FTXw1i54PrYnuWtvdg7nTsfvZnbMDu4EW5H7",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1429tQ2RK8xCwiVYYw7YVUFGX2rbASQN2maMExay7x18neoZ",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "142xjGmUioKgrwXfhXyiPU1tt3WeKKZnHX3NM6w16qtwbtFU",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "144mEFX4Cj9KTdbjS5w2iFrjwyhFnDrEJfXU2VNFa7EaUfgw",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "145QiuMq8w1vBVXfwDVFxUSchdRZ6W1tTGb1uZ45TcoUskRC",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "145SvVXoAwR5ufJynYWDeNXzfyxbf5VkCqkHu3Jt7FSdYBE2",
+    "commission": 1e-9,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "145Vw57NN3Y4tqFNidLTmkhaMLD4HPoRtU91vioXrKcTcirS",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "146NTtgi4qDnY5dC2UwNiqqgJMqnx5vmCYpARsCMgcYoCGiX",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "148CkH8YBzA1pbudK1bMo2zUMHZwbucBVH8s3utwTS687UiR",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1497QNdycmxqMi3VJDxZDhaJh4s9tytr5RFWyrLcNse2xqPD",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "149BBzx5gSQVzHmtsWT1JZBZLvS2Nu3AMQngBzFBVVKU78de",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14AakQ4jAmr2ytcrhfmaiHMpj5F9cR6wK1jRrdfC3N1oTbUz",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14AkAFBzukRhAFh1wyko1ZoNWnUyq7bY1XbjeTeCHimCzPU1",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14DE8GdKnNvgoXCLFq62ZjNz2zsGqnxXBsRMwNpiPip2JSFJ",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14GWWeZzMYkR7bwyeBvq7c44nJr4ncEodM4fAJX89ZSAHLw3",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14KHzXAZ5admFLXdgbEGpSjCGxiePniHRDM6t5r4o8kbYV7P",
+    "commission": 0.02,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14MDvXHcSfZXacZR3nvbS4XYgpWi2dY65BnthsUnMZU6R1kH",
+    "commission": 1e-9,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14MPt3EoUSKKhRtSvvCFFGw4o6GYZ5J1dtYpM2j75RsRmcE3",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14MvgGf3PzgsEmMBHxdqwQrfhEzsGhzPReATQdpLVpN6aK6U",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14N5GT7YTaDBSsLpfxxtCxNdYfgDofGj5wQSfqC1URKHdT8C",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14N5nJ4oR4Wj36DsBcPLh1JqjvrM2Uf23No2yc2ojjCvSC24",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14PkBX3BUF71wDh44BLeNby2u7X9ZBu36V28LMcBrdK35yC2",
+    "commission": 1e-9,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14PnEHmpqAJfBm5Nc95nCy6tdW5YozQwkXVEc7BjnANjGLXm",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14PzUQfFjRPiyi5jnizJY4YRcNhTCMaEu1jQuyESuPsueXko",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14QBQABMSFBsT3pDTaEQdshq7ZLmhzKiae2weZH45pw5ErYu",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14Qw2ptHYqxR98tWtfbcghQvd86k5H2WYYYpGZN1c7zf3trE",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14UBogS2gU4BqNySJK2uXvgwsawucnwg6kHz1vPfxRV6jY81",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14V8kBx6LkEnDLNj5HgQ6z1kPsa7bsHSr9djshQuEWnEMC95",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14VWEJDSWfHyuTSwErEXxFaiCW3i2gf2NPRkZ5igx6rnmqFd",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14VsdLMt7eH66aZFM13imSjFriYGU84bwPNZb99qNVhKuYSC",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14WLfLvnZgZYWi1xiN5bJB6Tok6QcLiN5uSqLm3dqGCMFPvb",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14Y4s6V1PWrwBLvxW47gcYgZCGTYekmmzvFsK1kiqNH2d84t",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14Y626iStBUWcNtnmH97163BBJJ2f7jc1piGMZwEQfK3t8zw",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14aAaj2oHD4qQvSdGdV138Mr7Sr3jT5qXNWGzAyMUBfsysJC",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14aCA6DHDyUKbPpE8JRp5pzhU2P2xgfj7BpKL1EY1EAonozr",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14awM7uRaZgTUojRUVZvFGDPuSYkqDb7mCpajVvVp3Mmwrr1",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14axX6XFbjCeYcCgcYBPHHX8qKXCcdUde8SqG9WbyKyUFjZT",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14b9zpD1z9xpWdw2YBkwAABVdpjkGpETW4ACx9RE1nYzL4Jz",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14bGpFntaPUgoSNdXeU99ddPH8RvHfZRic1dCcQBwnNuJwwr",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14bMb6TJGX7pS8aZb9ayFZ5LLfwnSG1YbSRdLFSbqoow4ZzP",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14bUYpiF2oxVpmXDnFxBipSi4m9zYBThMZoLpY8bRQrPQNG1",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14cxMDpBNLsNEXWyCzked3zghzaYWXwoqGT4h12GqQXdVhmn",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14d2kv44xf9nFnYdms32dYPKQsr5C9urbDzTz7iwU8iHb9az",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14d71bbo4vrVXV3QGUunCdXqoXYCG2xPJY2S1EDDnTj78Ath",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14dTZLAwhcBennygERRS5tXnWVAHq3e12LoCoHrQsmDd4X4H",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14dZ6AbsCRmppwyJERtyKg5UicgsXcRqGAHpRdZtnNucLHVV",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14das6GvVjXMFf6PysheHX9ek59fCgH3MhnvQ2aNLD9n8VDV",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14dcFGfWhzn32PWf6g5d6A6dDPUZdssEv2fCuouydd6Rc4Aq",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14dffMjf4Ec1RwCLHp21CifU6CX4hVnZtRCKgc6AGCt9K4v9",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14e6xD5f8MuyWqLNanZDqSGe9TEzNMn29namWpKBJBa5ukwJ",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14g5cxpdKcne2ZEXggWabRiBAyzjaxTZMeS3PNyDpFFxx9S2",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14g5vMTk5CR9ZUM4Ji2jkwTHuycmUJthEYCYUfj8mQLSks4p",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14g7XsFWsMpsPNkwQNhdHfsqKRehdRbpPLaGVTEhBe4Pt3Eu",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14gR76wiFhWSuzftMCmkJDJLW6MZg2r78RUz4KLBrBFbgTR9",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14ghKTz5mjZPgGYvgVC9VnFw1HYZmmsnYvSSHFgFTJfMvwQS",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14hM4oLJCK6wtS7gNfwTDhthRjy5QJ1t3NAcoPjEepo9AH67",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14iWQr1LrDR5sE3x1dMJrxSGRtvRrkmRNUxjaWaAH5o7gjUn",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14ices1G5qTmqhMfDVBECh4jotNDGTLu8fhE9YktWT3cLF2F",
+    "commission": 0.015,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14iffevcSjvG6NCP1CwLy8GLmigkS6saa7KjmWWTkUhXYp7R",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14j3azi9gKGx2de7ADL3dkzZXFzTTUy1t3RND21PymHRXRp6",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14kpNbU4XjEHfYdqp95Gq3NkBWbgFd6J8Yjd2SneWNzvf1Yp",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14kwc543va8QxjZGomprwEgQwxDvG4ssP8EWFVin7VpAX6Pf",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14m2QAeBxWoZxvSWE2SwBa3dWb3Pb7eGBdYycnurPVMoCNY8",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14m39ghoPS1QRM8tochabXfSiSTYc3uQsiNdCEcnnX4LuCUu",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14mGFFn2sUnLwm2PPbF5mbUB4K7cNafauAng9CpRMkvcFJw7",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14mbCrev6vqt5YcyjFsJgi5of44CRhCj9aUZUiCcvwjNZrKS",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14mub2yVK2D1JHKBC1sVtapfpFS3hawSLfHzTkKhwYMgPDCZ",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14oRE62MB1SWR6h5RTx3GY5HK2oZipi1Gp3zdiLwVYLfEyRZ",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14pU6dcr5jgMpFZDGB1fwcU6LztP5pszTk5mYz8nUXBu59mU",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14quk7PGMUjpsRJa66rHSQbeuXr7444xp6eVs4B4XKijmRm6",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14r3Pgm2P1MuwBDXNcjq5ZshMYcQEpc3aTnSVUtQNhJ8Hnua",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14rMkNfbNVjJqnBSmAbrALZnSrrnmL6ahr5nehbKFcnuDHyb",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14rzUwqFaqEYcC5QmPscEDWNBptorzYkd5wjS2ToL7g93n6s",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14sMwQdRHxFLmjqp14FCxsCjAe98BWf5EqY8obbF8YYvKnHq",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14tcxHSTAiZf7M4vcLfFdGkGJFjfx6zDqds5QVyz2H24hKgG",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14tqhjkG5BQMZeT3Wh4F24u6Dynfmpdg5zJssJF6akbJSTGq",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14u3rkMLJEuuoPG2kbtok5FbNNdaHrR246yDfK9jG9JKVPJx",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14v1KAyrm7LQJJvRpRP44qpf36uQWkRT1mzqUQzDY92r7BDa",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14wDWhXn2kNC1zpNJEUXgYg1vWVGM6xFhvJRGJzDoqqPZrbW",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14wFkAiTSxhUUdpkN37QMhZv6dYcURJVgSGwqDRd4TK2qhrL",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14wpitUpAcUnooXGs6JTRB9Zqa3g5tKdonCsSu2RE1A4aQSq",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14wymhAEzK44WuRLTfNDcLGJjgmHyoUpQtBEkaa2yeQPzpJX",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14xKzzU1ZYDnzFj7FgdtDAYSMJNARjDc2gNw4XAFDgr4uXgp",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14xso8KpEUMD174VA7FQR9qSK5fg2tHGsQ1ftF3LVTC4R4vy",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14yosBv2k4YTdLc6ZXusv9Cz5SG2JBi9MLimAFutF4LgjTpB",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14yrHPbyTy4ffNqaJJTUx1tqPdW3jJ9m48q7gGymyhVcmJDL",
+    "commission": 0.015,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "14zfiH2sMH955cG2yKUQbHSP3oQ8W4Ai9p9wSSZunvQ4TU4k",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "151oCCvw1aZS8TZHzvAj6J3zJec7ZLEKRj6FVWhzVGbTXTG1",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "152QidDC4QrtMCyRGiQmvrNyjntvMg2XouCSdoPSeqUNTvsq",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "152ZUcifBLGL9UgF3McaxkcLn2z4MxYWbRHTAMyv9qob9MWh",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "152cdecr7tagcB2t63dvjBnxV5j7YDW8PpbfX7orXj6ZQFWG",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1532FHXPCkWCJKFCDxz3J1SHgXCYyQRhWPAp9cLXvoaxJaRx",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1535dDRXs8ga9CJeAMinCogZcEhpfrmm8cdJnhkVehbnedmb",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "153639nyfwJHQbqRgCXr8oUGqMB3ScLjAdXa4em5of8XDJNA",
+    "commission": 0,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "153DL8bBeS2QD5AwFkK5Tic5MLnGSt5gfp1pgB6gjjd6tyUf",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "153KvYcTQ1NSiogioahA6SgHcf7PdgsPAeYBWM7oQdY6TgPY",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "153YD8ZHD9dRh82U419bSCB5SzWhbdAFzjj4NtA5pMazR2yC",
+    "commission": 0.025,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "155CFLBnr2WN3PziGZCgjfY9gmrWBK8LagSzyQwxh1viH6fu",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "155LwjGpJH3xYJwPBr6aapk2WCCAezVftvSMrqeJA6eE7v2d",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "155PUcH3apN6ZENAfW7kduwTKU3KqnnfcFDHWhnjcJw4zgVE",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "155htNoLnXSr4wkQsBfv7S7pZq6ZUTnQnsjsTHGBiqCBiwoe",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1561LhDTKVRFYGhS2FFZaemYKvSwHKPWsMvjrY15ZczS9dRk",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1567C3iuit53D5TaiySC6jYuJzDtJcgSV6vEkxu5x6wrVBTa",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1569aqCBma2m4TuUe1MxEs8EXBAZFCmwwcZMLde6HNbimuW8",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "156dG94Rcq61HVrn6Ndx33NysDimutzAq7j5Mz7yo2Hxf6wh",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "157uG3dxLhejwEY1huP2njDEp6MUKuM5YcEhVSMmHrX15jzS",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "157wUw3289QR7E2bMnVUxzwMYQX69S14kuYWARVYs4d8YEdt",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "157zaRVMj8eAfdie8jDe2z11Xh4nFu3E4SRUja3Zu113igP1",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "158KiRt1ue86wzYRDfy9CKZvkhNBzdFTL1po8bE2eo3wRkVC",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "158fogEu2vf8VdWPhEkPZTkZziC8AvRBoFEYqzmsFgsaYZTa",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "158ihFTX2xr96UW4kRfEm4Cbm219swtzUT52GemqDrvGhmwx",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15ALKNeS2c2JE3cW5LGpCp734afhzLCi17wax1UVbDeG4yMo",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15ANfaUMadXk65NtRqzCKuhAiVSA47Ks6fZs8rUcRQX11pzM",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15AVEN1kU3Usup1sRJSdoSMEb1n1htVwuFVfBGKpiz5cMTJt",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15AcyKihrmGs9RD4AHUwRvv6LkhbeDyGH3GVADp1Biv4bfFv",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15B3UVXPRp3yS2gU7GogS41mwoT2fTL1KaNYPF7eMVjjWZJJ",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15B9z922jSHotJZp3VR8B25nJHfFXwpYSkJF1DZPbZiscC3F",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15BMv7ZwBLyuttHPKvFMc7fTcYM6C5zezHxyZScyMdyddyie",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15BNTyFjDxEN6vzMB1d4DLeYS8gjW6GpHZRRHrYx9bKM4uU6",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15BQ1wUA4ycSS7ydCbVU2DaSPBt5xsZPK8Wmty5U7gaq7gtL",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15BVHZCc1azw47rsKCW4oPL4KL3reHmLfPEHTb4W37XGMt63",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15BeWFXGDfrbZLMjuLoC6DmFvbS5rM3EHpUW9CwaAa5itYua",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15CosmEmAfQAhnxwan18e5TueAe6bDzrqqxg13dToDWr7A8M",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15DJ6BzNKGYKtScD77hC1NEWe6iybp89A96kchPtkWyFWXLg",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15DNBRr6pNbQ4Le9pNxqDqQfGUG5byoCkSiL5SEr2fr7cGGL",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15EA9PhxDtVmWp9CN4VAiB8ABahKM2j3MhRFis41b39ghRqK",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15FctDfqPsFubuXo6UpKMQdbdCC3XXdnHsRMZ3DN6ZKPLrSu",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15G171nzcUvrTRwWZx8K5GLh1NReHdnTDANeWSMRK4Rjuhfu",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15GAZsLr6X2vhDjcpnztFZuYibAemzVw2i8VYBb42VHJhcZB",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15JUQodJ9iM6M6D6gWM5bdcgHLtemnUctGiR13tAfyrHjXFJ",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15KJFabioS7ieTiNCkKkLpgZ5JUyPhTBF6y128R7Z6Rsx3kq",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15KQ7wL7XvhAgMhK5XjUqyR4A41hXx6ZQAe1UqX5eUNXSmpD",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15KhD36jXQsqrAbYCjcTmguPYvBdCNdZFvEZbntAB1mrRN8Y",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15MLn9YQaHZ4GMkhK3qXqR5iGGSdULyJ995ctjeBgFRseyi6",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15MUBwP6dyVw5CXF9PjSSv7SdXQuDSwjX86v1kBodCSWVR7c",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15MYgThgMfKf9Dz1TV1UC1RBiA8xDNYoGbKkkvXNtah8yACC",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15P7yHcMoNXMW76EVWgKwSRapdJCdbHwp7EA63KrT5NfggW3",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15PJA4PKoCZ2eeuaoFpoAQikHX6nZB7oW4qFTRhKutzekn1L",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15PPJX7PvSbN7k6FSVZ5wnjWiMcf3swyRu4rzBZMnuhP7Koj",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15Ppahb9NfCEyYYSrYXTKXuFoLssuxUqccdE49yBcs5kU723",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15Q7LRbAKrVExHs9xtrhDKuNmPApo4iBQdJp3k11YMDjTF2f",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15QbBVsKoTnshpY7tvntziYYSTD2FyUR15xPiMdpkpJDUygh",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15UVN8DnBFdBJCStbaWeKT55wuSMAkoqEa7guYkZLtnszdQY",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15Uc3mRPJxdZTc9X6wUUCxzUrhrXD7ZWGPsPGYJcQYY2i5e7",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15UjmGk7qn992vQ2TjQzVSYrrbM3eMUHReCF5TxL7RmpjpJn",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15UveirdTG15rzBJyeLMtNUjsMKPJz8WnbUw4R17Q8KbCXAE",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15V6NjwmKkZihe644Tyr8GVLxjEzBAHktf6ZcJCTx7RPCoYS",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15XMg2NaaBguwfme1ny2FSuhEGpgqwbKEzvdHiZHi1SKFqea",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15XU7uzAP3nS7inBaWDNdZQXN8oXLnhkxUX7sink7HfxW752",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15XY7oJ99hVscy5jS3zUh5M3H6sxfccovyTVCPt15DuXCRAF",
+    "commission": 0.015,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15XrzrDfmDf8nZG47Vwci7ZSDcLswzXEEn1ePDmCNDrfy4v2",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15XvGmoR6NqAPoV86yDGMDkvU8PCtYGJoywGq1AFcwF6Y2qy",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15Xx6ToS88iUagZ6BNJsEMKDbo4V7RcjdJk1FGfdxLtgqVs4",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15ZvLonEseaWZNy8LDkXXj3Y8bmAjxCjwvpy4pXWSL4nGSBs",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15Zx4M1W1caBHvwdQY6EjUDVoAv714eEBLcLCuE5A25RqiMH",
+    "commission": 0.02,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15a6fbawvVNpQEoJLp1r9AW4ma9RgRXBvRp6BfHKNw3RCD2A",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15a9ScnYeVfQGL9HQtTn3nkUY1DTB8LzEX391yZvFRzJZ9V7",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15axLPDtT6kYX2pQh7WBSX1nvJowk8rbRxEWwgeVS5Qh9nRG",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15axNgLsGTaBYfpC53YZ31LSskSGsDVXzw7edW9MT3z6rJ56",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15ba93BbFArbPPydSz5EMMRAfhV1NVMRccfpYaAsYVhBUzYv",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15cfSaBcTxNr8rV59cbhdMNCRagFr3GE6B3zZRsCp4QHHKPu",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15ciPs3xZsJd86WFoijPs365f7viqGnubZ14aa9fGavyWJoM",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15cow6Uoq1KtBvyvRetuX52M1DepVpfVmc8qrpqCWH9grHdq",
+    "commission": 0.006,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15cqv5Ei4DB64t7undqpnPtskY7VGb1uwiGuQSs5u2UYfpXa",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15dEbKrzyw8Hwb7KkZHYKgCaPQGxnMgWm2EXb1zh6DmRKX22",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15drCUvFMiWvy1YfkU6xgENxRzmFXDaqQFpjUwR5nu11DHu3",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15fMqfNt5i2yz1Nq6fHAbmLokfbWfDbuTFZoLxv2RZkWpDTu",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15fU523Wq5BCt2NWAmrCU6p8nFB29uVifeG7bwYJHbw5Mmd9",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15fd6W2m8GLyD6HghwCBuRuHS8w1N7Agbjzp6yU2gHbihEHt",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15g4s7BbwoB375dDxJJEaufKC2APvCxb5T1ck5b6sEeuGDcz",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15gx1QMCKtB16pfYh3wKc8844NygfrXWKh6UqojajDftxS1d",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15iA5hpjUecWBbf38Nfegwmtyux25o3LrGaNodfZDxq5nXXE",
+    "commission": 0.02,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15kb76J3G8QvtoYKZdWyvPC12MzewsMYYneYT7E6SM2R3oTB",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15kkg1mK1tCGgqqo3c1CghtKCQsBEAPPjYNNmmRT3r29FeRX",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15m31T5USFFiQdYw1R5ZDgfrdNDNi3mxoHSbv2bTE3fBBP2W",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15nLLFfX8jtyhnYogRqPU798qNpjvSp6n14AiH7ddHRFWnL8",
+    "commission": 0.02,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15oH3ET4QGW954CPiBvhgKHXNrb4Ef4FTihRiH2VjmFTRzZa",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15oKi7HoBQbwwdQc47k71q4sJJWnu5opn1pqoGx4NAEYZSHs",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15oQ16zXhMJQc5R5HoHpyr6qKvdo6snYMFkzuvtXo9mpQtge",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15obLH9MxzvqKHyb5JpSxku4KsejjvuWn1tiRVBGCZ3HfT1H",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15omhU2Gi3ounztEznJ9Bj49dvoPhSi9wN1M7uoniTt9F72d",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15orHupBCN5RKrtNpEsvxcyGxdtmbcmwZwepcUzXyQkSqKnt",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15p158r32Z12YyFU7BiqLcqpySmHUedVfJLJ4M73THBixKJY",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15p4wTCaY2tggjfHc62FGmXr9wuLgmK5PnZW1kWKhsqKm88H",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15qhbgGE4xrmzawwQPHcD57MuuqixTdq99idSvwmppfWJHAa",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15qomv8YFTpHrbiJKicP4oXfxRDyG4XEHZH7jdfJScnw2xnV",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15qtTjVnfFs1DqAbUJBX4N74k7mAbXiPwww8qiWFXbpUoB4y",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15rGBBEWWDVk9wRYaj9okQ8JFeLduWtkKsjvu9rWCjz7SPBV",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15roBmbe5NmRXb4imfmhKxSjH8k9J5xtHSrvYJKpmmCLoPqD",
+    "commission": 0.02,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15tfUt4iQNjMyhZiJGBf4EpETE2KqtW1nfJwbBT1MvWjvcK9",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15thjfpZX1xVcsnfya1oXmbXzau2on5abAc4XXYP62SNwwQQ",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15tsaRbwLLBHst5chP1pVkQHc5n2JS4DcapFdhCnqJMZebda",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15ttPoUNmSdBmQAtYt47U5d1JCtKCFaxFMtdAcKsG8qVmm3x",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15twfAkh6TKdNpE7kNgxcQSRYtSpt3QpgjxmR6HKHFGs6Yrz",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15vUnTtXK5BAv8UkEn7NMfYUVHp8Fr5EFburmL6CR7fhPyaU",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15vgF71w3fRJrie8Y8NScfvqV9yNKKkw2nrFwzbJvVoDzuq6",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15wD8upZxRZijKkF7JZDdaaFXuRZJhFyYpFQC5j6FaZL5Pza",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15wE6FKHd4vS6PUVohpJdtW3M3CGq1yatMaYBodpPkLdQJfu",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15wdC56juwXeqriyBJMdEpi6FrnB9PsrLjVuKZG4Smp9a2fP",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15wepZh1jWNqxBjsgErm8HmYiE21n79c5krQJeTsYAjHddeM",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15x643ScnbVQM3zGcyRw3qVtaCoddmAfDv5LZVfU8fNxkVaR",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15xZLy5xssjWq83PWa71wSisUVizoAD5ZruiWeY7L1LWN5dg",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15yWjJfhPwiBECjVezPTA42EFpcrxmRUjzPN6nf3azvZ5wDX",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "15ym3MDSG4WPABNoEtx2rAzBB1EYWJDWbWYpNg1BwuWRAQcY",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "161kZAmiB7X5eZFxcVn2uaXUqq8HMHwyat6fMYdxcB75oPf7",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "162Cw32opH6PQRLU1dcLVgkvgC3EWrTFZQfjCK9kbuFYZ76p",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "163AJJfUjzonWiSqmGD71iZBPv9Q4VTbjgm6K6NTv9Fvd42p",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "164nz4vJEvNGH8ujptukVzNQXEep9Smx6icLcWGZKvTnohVs",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "1653t723BHhC2krGCFKUUNDQb5sUafy5pZvKVwnwo1oMAMi7",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "165VtFs6qEWeSHDsNp6fNmQDm6fviLSzWGJFhKuaGvk6PMYS",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "167PDZ9Th5rLRXJFaG3BpZFWXMZoYSRoRcdEj1YR42diDfHE",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "167ShbHu769mP5jbtt7AHayJhzEied6s8M5kN5nBSAQewnRz",
+    "commission": 0.02,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "167Upkf8NpuCMorKmdcKex1VeRhCqCuXcxRzc9BLsqh1kBER",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "167ePSNFzjb2jrBqqCqkWMcH728onmjVYYzozYsZQHwReqRJ",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "167kWNv6izrkGybYocz8PoVdHtC9PgCkg1SH1pp7DFpsty7b",
+    "commission": 0.035,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "168CakdikhdJAyNkDqaPMontvC5k14xVjc2dbGeGyGCbkHzo",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16A1zLQ3KjMnxch1NAU44hoijFK3fHUjqb11bVgcHCfoj9z3",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16A4n4UQqgxw5ndeehPjUAobDNmuX2bBoPXVKj4xTe16ktRN",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16A9nLc3SXvbv7x1NUGL9zWjitQ27JWmKoc6yrUYhMsF8tGC",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16ALG7wV7j1nUExAY8LYwxQxVwrMEoW2tqPRjKgbfX1ZNgZU",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16BBtZT9N2zQkFBjwSTuPhG4fC2RS9YGkADqcwYMhoL4QkCN",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16BEvxYpyRWPaFbtwCPzSCtHVKr1soViaobKojNWBH12U5dk",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16CdHjb4nxVwF6uwmPm6A29pc4ubnLiY7UqasMxt7cT9BcoK",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16Cmm8ZrZMauz7nzKWQvrTu12qznK8z2D8EVeRBfNqzpz4FY",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16CwGV9RNGQMb1whyNQ2i4bwtEoniUyWEuaxBjvNWcegezWB",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16DJbUVKFJp6igLoDxCTPesE2DMgMmiawLXG9jsGpYNTshxt",
+    "commission": 0.015,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16DKyH4fggEXeGwCytqM19e9NFGkgR2neZPDJ5ta8BKpPbPK",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16DswM6QWrqvtH8CTxhv9j5EWdkLkvzQucL3woJbLLrFZ9wa",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16FCPBq8sa9CZvCRV3TPYtRBrES3dk1BVDaYiceTg2c99jsF",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16FRYg2zE5cgrkKQmJhU9YJRT7Uquqxfz6hmp6GnqgdcBv16",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16FUnnZX7h11sxio9wu6DGGqD66z5vXxNLcXuSJFWFAjkaZ5",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16FWJSMDPM55M76nLwjmWtFgDQEa5ZFLQ65gLBVoANdkkGJV",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16G8NDzxUeUbGiw2bFX3Wy7JwNEJz9U8B1smCFqqe4GPZbdN",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16GDRhRYxk42paoK6TfHAqWej8PdDDUwdDazjv4bAn4KGNeb",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16GRmk9cb48j4DNuZmufhWpmo2Kv55LiJP39aMyfWKcTp8YH",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16JJSWvMNM8i7T97ULGPHPyjvBM3JrV7poyKJRjCzTTE6kWx",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16Jh21ThTh2tW98NuN2gM7Q3KaYiuJLbxCNbuBkFpwcDkRqx",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16JvJXLPySkFtH48aYhnCrpdsbFsMFB9ERtEWuXFmRxQrwx5",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16K5HDyq7MqLGBV7gCTZbLef81n7WF5CzGdLuX6LxGZbFXou",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16KDeHRyHTXhTSkv3BDNKzBVrxsqdqvNacLy4TH5DfD64yEG",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16LReiXssAN4ZcnDwph7Tt1UvZrUKWFh7EAjNXKpreVLPybi",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16LqH1hCcMYu1GedZuh6sKHpVYW77BBCM8hr5unS8Lk2Zu4G",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16M2yFjnsde81MG5ynrL1AFz4cev9boVPu4KkRZyiLyczZwX",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16M3oPL7NAsaDyumZs84XmjhYRPLKA8jbVN8N4FNECZ1KSKy",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16MTPYUDqLaCMErgvbTu6WehcUFKiocUWUDFN1Jdpeo5nED4",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16Ma3suDhT8TkTWffpPaS8sMFn2K6rEqddVJY4QCCUSj2J5J",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16MdN3hamVZ5UZn2T1Y6FxV4rR9J6vHu1scWh93ZSrvsfgku",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16Miri6rQEdt7r8z3psokmwYcFdGxLYDW6KrCbMRVPcnWdJ5",
+    "commission": 0.14,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16P6nQ6oigiaVm3GwvSLsNgDhmVpy23YRU5TiRPeQGShjRsi",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16PUFLHexBvLGZFu6HRmCEXHDh6KWmtfpGrAqTHKJsBTaZ8U",
+    "commission": 0.035,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16PhQfCRVDaMEgxGGFHHnuveHzXohbwatUuVxaDJcjBaN7WF",
+    "commission": 0.035,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16Q2PH4woP6gCE4LzgWtmwTGzxrrkxSsz5bDnXQnEpdabxf4",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16RJiGgc9uhZNXmd47Nywsnf43ApCJkSrnLTiodi5RDodBd3",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16Rtxs1CuR6EgQEsi2yJ4YFRFRwRakXShMCAuGW2MKRwpjHo",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16SQ2fPAjhU6W7H22WWdSRrwyNSx6M51F3xC4GS5HW7w1AXF",
+    "commission": 0.035,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16SpacegeUTft9v3ts27CEC3tJaxgvE4uZeCctThFH3Vb24p",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16TnLArANi5Y4SmQbGjW8V8XV1NBbjPr7AzwUsrHjBoERXTp",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16UgRGtYLuDWsBvjLLtc6FYVB3qSCV9c4sidcN4zaFm9qCFR",
+    "commission": 0.015,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16Us8m3Q5dZ1qDntFj3Qwa2nPw1ptKfUButMukJVpU8UiDL8",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16WysSfNfFvNhVM372TPKrVkEx1YRzpKdqNRatZ4zWUH1rwC",
+    "commission": 0.03,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16YwUZyLdeAoe4KmhivGwuuJpBH1US4qkUtXK2V83MVXUy6x",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16Zjo9bK3ubRrZCjwEkotG3fk4ka69TKQbPbUAJedHhMFYoH",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16ZrzTmq8yZ3Mq4LQZxQAaoNx4fStAp9neH8M62iNYks87bv",
+    "commission": 1e-9,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16ZuZrRbAk4gXDDeFpuhkGtuoCRSv5myNEGTWqsU7KisBRpg",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16aHTtVyQe61KJkcciSVtnEJ3ThNdErNsY223JTBvd7U5xfb",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16aThbzrsb2ohiLXJLqN8jLST6JgUPRi3BqyHxUW4yVHBQ44",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16btvgxktRwuX9iZC3NTjcTrJsDiARUVLZp95zPs6Yi7cbGS",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16cSiUTqGavZULqZStC6wvCxiFrtQmUafsDknoTmhAbMT6Jz",
+    "commission": 0,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16cTp6UVVE6aGNNkhAYaEMJ5P2Ndmd9op7ccBDkEkJFQWCFu",
+    "commission": 0.035,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16ccn3xe5tAeR8kvzCRTcqHZjMJHvuF2pnLfTqyF1EmMusCU",
+    "commission": 0.07,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16ce9zrmiuAtdi9qv1tuiQ1RC1xR6y6NgnBcRtMoQeAobqpZ",
+    "commission": 0.0025,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16d9PJvEJYydbkvhz5GawZZFqR4trJanWv6Kq2Eq92Pmw3Ri",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16ervPpbDEnPTHwzh564ZSyfm13MZzkYkYf6UD3YPho2yfDj",
+    "commission": 0.08,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16faUtGhiGAYPqsyL4nYyvCd7ePiJ6aYzQEvrErtX9wZDPK7",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16fbkDCMrAo1uyC52NyA8Y2dETnYVpCofSoj3QEE2WUNnkLk",
+    "commission": 0.0379,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16fcR1ercimd6qyBVQyXTTjtWL1kosTS1myiSuVf7kxutxvg",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16g43B7VPfTmpXQujSz3aKbqY9twSrDreHFWtwp4P7bLkQPp",
+    "commission": 0.01,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16gxSXJyRkWUiFuMYURSQRHCHRiQvNAUDxXLehZcqizFkE6R",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16hkW8LgYYAdsCPjqdCcochRzfdeyAAKiSo9drWQfd5mnzSt",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16hwkvDGzdLLyaZ9CyPfwg85ijEAJUoHKxKSu6oSfDVyZm9j",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16iPkhcq851iaeuP8rZyN1oejneBGtSeQCbhyGMwkiwm7dBX",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16iiKwFsRKRsjAiEpD4zgNgEX84nzHtHHNFKXhz1sHtan3ne",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16k5kPkBCMi89e1a9yGZGT4gHJW5H4KUQ5eVqPc8PGPxhi1K",
+    "commission": 0.05,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16kL2BPH1ppm6tUKVF9hghVYCNaPJ8iNNGXdKKZGNzpVLvo5",
+    "commission": 1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  },
+  {
+    "validatorId": "16kzYodFWy43sVGFKGnpDK8T3P8F9NhyMKqWNFfeFVN4XT9K",
+    "commission": 0.1,
+    "ownStake": "0",
+    "totalStake": "0",
+    "rewardAfterCommission": "0",
+    "apy": 0
+  }
+]

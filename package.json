@@ -4,9 +4,9 @@
   "description": "Staking dashboard DApp",
   "type": "module",
   "scripts": {
-    "start": "vite",                          
-    "build": "vite build",                  
-    "preview": "vite preview",               
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
     "sdk:test": "node sdk/src/validators.js",
     "sdk:watch": "nodemon sdk/src/validators.js"
   },
@@ -14,14 +14,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@polkadot/api": "^16.4.6",
     "@polkadot-api/descriptors": "^0.0.1",
+    "@polkadot/api": "^16.4.6",
     "polkadot-api": "^1.16.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/node": "^24.3.0",
+    "@vitejs/plugin-react": "^5.0.2",
     "nodemon": "^3.1.10",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.2",
