@@ -1,107 +1,97 @@
-// frontend/src/App.tsx
 import React, { useEffect, useState } from "react";
-import "./App.css";
 import {
   connectApi,
   getValidators,
   getLastNonZeroEra,
   fetchValidatorsProgressively,
-  ValidatorData
+  ValidatorData,
 } from "./sdk/validators";
 
-const App: React.FC = () => {
+function App() {
+  const [apiStatus, setApiStatus] = useState("Connecting...");
   const [validators, setValidators] = useState<ValidatorData[]>([]);
   const [loading, setLoading] = useState(true);
-  const [progress, setProgress] = useState("Starting...");
-  const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    let isMounted = true; // for cleanup in case component unmounts
-
-    const fetchValidators = async () => {
+    async function fetchData() {
       try {
-        setProgress("Connecting to Polkadot node...");
+        setApiStatus("Connecting to Polkadot...");
         const api = await connectApi();
 
-        setProgress("Fetching validator IDs...");
+        setApiStatus("Fetching validators...");
         const validatorIds = await getValidators(api);
 
-        setProgress("Determining last era with rewards...");
-        const lastEra = await getLastNonZeroEra(api);
+        setApiStatus("Finding last active era...");
+        const era = await getLastNonZeroEra(api);
 
-        setProgress(`Fetching ${validatorIds.length} validators from era ${lastEra}...`);
+        setApiStatus("Fetching validator data...");
+        const collected: ValidatorData[] = [];
 
-        // Fetch validators in batches progressively
         await fetchValidatorsProgressively(
           api,
-          lastEra,
+          era,
           validatorIds,
-          20,
+          10, // batch size
           (batch) => {
-            if (!isMounted) return;
-
-            setValidators((prev) => {
-              const updated = [...prev, ...batch].sort((a, b) => b.apy - a.apy);
-              setProgress(`Fetched ${Math.min(updated.length, validatorIds.length)} / ${validatorIds.length} validators...`);
-              return updated;
-            });
+            // All fields are already numbers, so just push as is
+            collected.push(...batch);
+            setValidators([...collected]); // progressively update state
           }
         );
 
-        if (!isMounted) return;
-        setProgress("All validators fetched!");
+        setApiStatus("Done");
         setLoading(false);
-      } catch (err: any) {
-        console.error(err);
-        if (isMounted) {
-          setError(err.message || "Unknown error occurred");
-          setLoading(false);
-        }
+      } catch (err) {
+        console.error("Error fetching data:", err);
+        setApiStatus("Error: " + (err as Error).message);
+        setLoading(false);
       }
-    };
+    }
 
-    fetchValidators();
-
-    return () => {
-      isMounted = false; // cancel state updates if component unmounts
-    };
+    fetchData();
   }, []);
 
-  if (loading) return <div className="loading">Loading… {progress}</div>;
-  if (error) return <div className="error">Error: {error}</div>;
-
   return (
-    <div className="App">
-      <h1>🏆 Top Validators by APY</h1>
-      <table>
-        <thead>
-          <tr>
-            <th>Validator</th>
-            <th>Commission (%)</th>
-            <th>Total Stake</th>
-            <th>Own Stake</th>
-            <th>Reward After Commission</th>
-            <th>APY (%)</th>
-            <th>Reward Points</th>
-          </tr>
-        </thead>
-        <tbody>
-          {validators.map((v) => (
-            <tr key={v.validatorId}>
-              <td>{v.validatorId}</td>
-              <td>{(v.commission * 100).toFixed(2)}</td>
-              <td>{v.totalStake.toString()}</td>
-              <td>{v.ownStake.toString()}</td>
-              <td>{v.rewardAfterCommission.toString()}</td>
-              <td>{v.apy.toFixed(2)}</td>
-              <td>{v.rewardPoints.toString()}</td>
+    <div style={{ padding: "20px", fontFamily: "Arial, sans-serif" }}>
+      <h1>Polkadot Validators Dashboard</h1>
+      <p>Status: {apiStatus}</p>
+
+      {loading && <p>Loading validator data...</p>}
+
+      {!loading && (
+        <table
+          border={1}
+          cellPadding={8}
+          style={{ borderCollapse: "collapse", marginTop: "20px" }}
+        >
+          <thead>
+            <tr>
+              <th>Validator</th>
+              <th>Commission (%)</th>
+              <th>Total Stake</th>
+              <th>Own Stake</th>
+              <th>Reward After Commission</th>
+              <th>APY (%)</th>
+              <th>Reward Points</th>
             </tr>
-          ))}
-        </tbody>
-      </table>
-      {progress && <div className="progress">{progress}</div>}
+          </thead>
+          <tbody>
+            {validators.map((v) => (
+              <tr key={v.validatorId}>
+                <td>{v.validatorId}</td>
+                <td>{v.commission.toFixed(2)}</td>
+                <td>{v.totalStake.toLocaleString()}</td>
+                <td>{v.ownStake.toLocaleString()}</td>
+                <td>{v.rewardAfterCommission.toLocaleString()}</td>
+                <td>{v.apy.toFixed(2)}</td>
+                <td>{v.rewardPoints.toLocaleString()}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      )}
     </div>
   );
-};
+}
 
-export default App;
+export default App

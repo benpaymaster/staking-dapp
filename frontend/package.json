@@ -2,20 +2,27 @@
   "name": "frontend",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "vite --open",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "ts-node": "ts-node src/sdk/validators.ts"
   },
   "dependencies": {
+    "@rollup/plugin-inject": "^5.0.5",
+    "buffer": "^6.0.3",
+    "process": "^0.11.10",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "vite": "^5.4.0",
-    "@vitejs/plugin-react": "^4.3.1",
-    "typescript": "^5.5.0",
+    "@types/node": "^24.3.1",
     "@types/react": "^18.3.3",
-    "@types/react-dom": "^18.3.3"
+    "@types/react-dom": "^18.3.3",
+    "@vitejs/plugin-react": "^4.3.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2",
+    "vite": "^5.4.0"
   }
 }
