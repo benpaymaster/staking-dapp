@@ -1,73 +1,64 @@
 # Polkadot Staking Dashboard DApp
 
-A staking analytics dashboard for the Polkadot network.  
-Connects to a live Polkadot node, fetches validator and nominator data, computes APY (annualized staking returns), and provides insights into multi-era staking performance.
+**One-line description:** A comprehensive dashboard for analyzing staking performance, validator rewards, and nominator activity on the Polkadot network.
 
 ---
 
-## 📦 Project Structure
+## 📖 Overview
+
+The Polkadot Staking Dashboard connects to live Polkadot nodes, fetches validator and nominator data, computes APY (annualized staking returns), and provides actionable insights into multi-era staking performance.  
+This project demonstrates full-stack Web3 development, integrating the Polkadot JS API with TypeScript and React.
+
+**Tech Stack:** React 18, TypeScript, Vite, @polkadot/api, Node.js v22+  
+**Role:** Lead Developer – architecture, SDK development, frontend integration, multi-era analysis.
+
+---
+
+## 🏗 Project Structure
 
 ```
 staking-dapp/
-├── frontend/             # React frontend and test scripts
-│   ├── src/             # React source code
+├── frontend/            
+│   ├── src/             
 │   │   └── App.tsx
-│   └── sdk/             # Backend SDK to fetch data from Polkadot
+│   └── sdk/             
 │       └── src/validators.ts
-│   └── testValidators.ts # CLI script to test SDK functionality
+│   └── testValidators.ts # CLI testing script
 ├── package.json
 └── README.md
 ```
 
 ---
 
-## 🚀 Features
+## 🚀 Key Features
 
-### Part 1 – Base Functionality
-
+**Base Functionality**
 - Connects to Polkadot via WebSockets (`@polkadot/api`)
-- Fetches all active validators in the current era
-- Computes validator rewards, commission, own stake, and APY
+- Fetches active validators and computes APY, commission, own stake
 - Displays **Top 10 validators by APY** in CLI and frontend
 
-### Part 2 – Add-ons
-
-- Multi-era analysis: Check nominator activity across multiple eras
-- Validator performance insights: Identify active vs inactive validators per era
+**Advanced Features**
+- Multi-era analysis: Track nominator activity over multiple eras
+- Validator performance insights: Identify active vs inactive per era
 - Reward calculation: Computes individual nominator rewards factoring in validator commission
-- Nominator status: Shows bonded amount, selected validators, and reward eligibility
-- Staking bag insights: Identify nominators in wrong bags or not earning rewards
-- CLI and Frontend integration: Displays summary of validator and nominator data
+- Nominator status: Displays bonded amount, selected validators, and reward eligibility
+- CLI + Frontend integration: Summarizes validator and nominator data
 
 ---
 
-## ⚠️ Problems Encountered
+## ⚠️ Challenges & Solutions
 
-| Problem                | Description                                                                 |
-|------------------------|-----------------------------------------------------------------------------|
-| Module import errors   | TypeScript/ESM could not locate validators.ts or specific exported interfaces. |
-| Deprecated API queries | Some Polkadot API calls like `erasReward` were removed or replaced.         |
-| Multi-era handling     | Iterating eras and handling optional types (Option) required careful BN arithmetic. |
-| Syntax errors          | Import/export mismatches caused SyntaxError or Cannot find module.           |
-| Node warnings          | `--experimental-loader` and `fs.Stats` deprecation occurred with Node v22+. |
-| Lack of DOT            | Testing rewards without DOT holdings required fetching historical era data.  |
-
----
-
-## 💡 Solutions Implemented
-
-| Problem                | Solution                                                                    |
-|------------------------|-----------------------------------------------------------------------------|
-| Module import errors   | Used exact file paths with `.ts` extension and ensured exported interfaces match imports. |
-| Deprecated API queries | Updated queries (`erasValidatorReward`, `erasStakers`, etc.) and handled all BN arithmetic correctly. |
-| Multi-era handling     | Created structured interfaces (`ValidatorData`, `NominatorEraActivity`) and iterated eras safely. |
-| Syntax errors          | Maintained correct TypeScript syntax and fixed import/export mismatches.     |
-| Node warnings          | Ignored harmless warnings or used `npx ts-node --esm` for ES module compatibility. |
-| Lack of DOT            | Fetched historical era data for reward calculation rather than using live staking. |
+| Challenge                | Solution                                                                    |
+|---------------------------|-----------------------------------------------------------------------------|
+| Module import errors      | Used explicit `.ts` paths and ensured interface consistency               |
+| Deprecated API queries    | Updated queries to current APIs (`erasValidatorReward`, `erasStakers`)  |
+| Multi-era handling        | Created structured interfaces (`ValidatorData`, `NominatorEraActivity`)|
+| Node warnings             | Used `npx ts-node --esm` and ignored harmless deprecation warnings        |
+| Lack of DOT for testing   | Fetched historical era data for reward computation                        |
 
 ---
 
-## 🔧 Installation & Usage
+## 💻 Installation & Usage
 
 ```bash
 # Clone repository
@@ -78,18 +69,23 @@ cd staking-dapp/frontend
 npm install
 ```
 
----
+**Run SDK (CLI Test)**
 
-## ▶️ Running the SDK (Backend)
-
-Test validators and nominator analysis:
 ```bash
 npx ts-node testValidators.ts
 ```
 
+**Run Frontend**
+
+```bash
+npm run dev
+```
+
+Visit: [http://localhost:3000](http://localhost:3000)
+
 ---
 
-## 🖥️ Example Output
+## 🖼 Example Output
 
 ```
 📌 Last Non-Zero Era: 1918
@@ -111,35 +107,15 @@ Total Nominator Rewards: 12,345,678
 
 ---
 
-## 💻 Running the Frontend
+## 📈 Next Steps
 
-```bash
-npm run dev
-```
-
-Visit 👉 [http://localhost:3000](http://localhost:3000)
-
----
-
-## 📊 Tech Stack
-
-- React 18 + TypeScript
-- Vite (frontend bundler)
-- @polkadot/api (Polkadot JS SDK)
-- Node.js v22+
-
----
-
-## 🚀 Next Steps
-
-- Improve frontend UI with charts and filtering
-- Validator search and sorting features
-- Wallet integration (Polkadot.js, Ledger, WalletConnect)
-- Support for Kusama / parachains
-- Detect and correct nominators in wrong staking bags
+- Improve frontend UI with charts and filters
+- Add wallet integration (Polkadot.js, Ledger, WalletConnect)
+- Support Kusama and parachain staking
+- Detect and correct nominators in incorrect staking bags
 
 ---
 
 ## 📝 Author
 
-Adegbenga Ogungbeje  
+Adegbenga Ogungbeje
